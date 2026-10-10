@@ -1,0 +1,3031 @@
+[
+ {
+  "sheet": "01 Phenomenology",
+  "slides": [
+   {
+    "n": 1,
+    "title": "Phenomenology",
+    "points": [
+     "Understand lived experience and the meaning of a phenomenon",
+     "Core principles, study planning and applied examples"
+    ],
+    "visual": "Title slide with a simple topic-related image"
+   },
+   {
+    "n": 2,
+    "title": "Learning objectives",
+    "points": [
+     "Explain the purpose and defining features of phenomenology",
+     "Plan sampling, data collection and analysis appropriate to the approach",
+     "Evaluate quality, ethics and reporting"
+    ],
+    "visual": "Three learning objectives"
+   },
+   {
+    "n": 3,
+    "title": "Definition and purpose",
+    "points": [
+     "Explore how people experience a phenomenon",
+     "Describe or interpret its meaning",
+     "Focus on experience rather than frequency"
+    ],
+    "visual": "Experience-to-meaning diagram"
+   },
+   {
+    "n": 4,
+    "title": "Philosophical foundations",
+    "points": [
+     "Introduce intentionality and the lifeworld",
+     "Contrast Husserlian description with Heideggerian interpretation",
+     "Explain why philosophical commitments shape methods"
+    ],
+    "visual": "Two-column philosophy comparison"
+   },
+   {
+    "n": 5,
+    "title": "Descriptive and interpretive traditions",
+    "points": [
+     "Descriptive work seeks an account of essential experiential features",
+     "Interpretive work examines situated meaning",
+     "Name and justify the tradition chosen"
+    ],
+    "visual": "Tradition comparison table"
+   },
+   {
+    "n": 6,
+    "title": "When to use phenomenology",
+    "points": [
+     "Choose an experience shared by participants",
+     "Use when meanings remain poorly understood",
+     "Avoid questions primarily seeking a process theory"
+    ],
+    "visual": "Design-selection examples"
+   },
+   {
+    "n": 7,
+    "title": "Formulating the research question",
+    "points": [
+     "Ask what an experience is like or how it is understood",
+     "Specify the phenomenon and population",
+     "Avoid imposing predetermined categories"
+    ],
+    "visual": "Before-and-after question wording"
+   },
+   {
+    "n": 8,
+    "title": "Illustrative study question",
+    "points": [
+     "Hypothetical example: living with newly diagnosed glaucoma",
+     "Ask how diagnosis changes everyday perception and identity",
+     "Keep the focus on lived experience"
+    ],
+    "visual": "Question card with phenomenon highlighted"
+   },
+   {
+    "n": 9,
+    "title": "Researcher position and reflexivity",
+    "points": [
+     "State relevant clinical or personal experience",
+     "Examine assumptions about the phenomenon",
+     "Record how researcher-participant relationships shape interpretation"
+    ],
+    "visual": "Reflexive journal prompts"
+   },
+   {
+    "n": 10,
+    "title": "Bracketing and prior understanding",
+    "points": [
+     "Descriptive traditions examine and suspend assumptions where possible",
+     "Interpretive traditions critically engage prior understanding",
+     "Explain that complete neutrality is not attainable"
+    ],
+    "visual": "Assumption audit example"
+   },
+   {
+    "n": 11,
+    "title": "Participant selection",
+    "points": [
+     "Recruit people with direct experience of the phenomenon",
+     "Use purposive criteria aligned with the question",
+     "Consider experiential variation without losing a shared focus"
+    ],
+    "visual": "Eligibility and variation matrix"
+   },
+   {
+    "n": 12,
+    "title": "Sample adequacy",
+    "points": [
+     "Seek rich experiential accounts",
+     "Justify sample size by scope, depth and analytic tradition",
+     "Avoid a universal numerical rule or unexamined saturation claim"
+    ],
+    "visual": "Depth-versus-scope diagram"
+   },
+   {
+    "n": 13,
+    "title": "Interview design",
+    "points": [
+     "Invite concrete accounts of particular situations",
+     "Probe bodily, temporal and relational experience",
+     "Use open prompts without leading explanations"
+    ],
+    "visual": "Interview guide excerpt"
+   },
+   {
+    "n": 14,
+    "title": "Additional experiential materials",
+    "points": [
+     "Consider diaries, drawings and written reflections",
+     "Explain what each material contributes",
+     "Obtain consent for personal artifacts"
+    ],
+    "visual": "Data-source matrix"
+   },
+   {
+    "n": 15,
+    "title": "Data preparation",
+    "points": [
+     "Transcribe faithfully and de-identify accounts",
+     "Preserve contextual details needed for meaning",
+     "Re-read each account as a whole"
+    ],
+    "visual": "Transcript preparation workflow"
+   },
+   {
+    "n": 16,
+    "title": "Selecting an analytic approach",
+    "points": [
+     "Describe options such as Giorgi, Colaizzi or van Manen",
+     "Align procedures with philosophical commitments",
+     "Avoid treating different traditions as interchangeable recipes"
+    ],
+    "visual": "Approach-to-tradition mapping"
+   },
+   {
+    "n": 17,
+    "title": "Meaning units and experiential patterns",
+    "points": [
+     "Identify passages relevant to the phenomenon",
+     "Explore how meanings relate across accounts",
+     "Keep interpretation anchored in concrete experiences"
+    ],
+    "visual": "Annotated hypothetical transcript"
+   },
+   {
+    "n": 18,
+    "title": "Developing an experiential account",
+    "points": [
+     "Describe what was experienced and how it was experienced",
+     "Examine shared features and meaningful variation",
+     "Use essential structure only where the tradition supports it"
+    ],
+    "visual": "Experience structure map"
+   },
+   {
+    "n": 19,
+    "title": "Worked analytic example",
+    "points": [
+     "Hypothetical excerpt: uncertainty before the next eye examination",
+     "Identify altered time and bodily vigilance as possible meanings",
+     "Show the interpretive steps without presenting invented results as evidence"
+    ],
+    "visual": "Excerpt-to-meaning table"
+   },
+   {
+    "n": 20,
+    "title": "Quality and credibility",
+    "points": [
+     "Demonstrate methodological coherence and depth",
+     "Use rich excerpts and a transparent analytic account",
+     "Consider participant feedback where appropriate to the tradition"
+    ],
+    "visual": "Quality criteria checklist"
+   },
+   {
+    "n": 21,
+    "title": "Ethics and sensitive experiences",
+    "points": [
+     "Anticipate distress when discussing illness or loss",
+     "Allow pauses and withdrawal",
+     "Protect identity in detailed experiential narratives"
+    ],
+    "visual": "Interview ethics scenario"
+   },
+   {
+    "n": 22,
+    "title": "Reporting the study",
+    "points": [
+     "Explain tradition, researcher position and analytic choices",
+     "Present experiential descriptions supported by excerpts",
+     "Relate findings to the phenomenon without claiming prevalence"
+    ],
+    "visual": "Results-section outline"
+   },
+   {
+    "n": 23,
+    "title": "Strengths, limitations and common errors",
+    "points": [
+     "Provides depth about meaning and experience",
+     "Interpretation depends on context and researcher engagement",
+     "Avoid relabeling a generic thematic interview study as phenomenology"
+    ],
+    "visual": "Strengths and pitfalls table"
+   },
+   {
+    "n": 24,
+    "title": "Key takeaways and discussion",
+    "points": [
+     "Align philosophy, question and analytic method",
+     "Prioritize concrete lived accounts and reflexivity",
+     "Discuss whether an experience question fits this design"
+    ],
+    "visual": "Three takeaways and discussion prompt"
+   },
+   {
+    "n": 25,
+    "title": "References and further reading",
+    "points": [
+     "Creswell & Poth. Qualitative Inquiry and Research Design, 5th ed. SAGE. https://us2.sagepub.com/en-us/nam/qualitative-inquiry-and-research-design/book266033"
+    ],
+    "visual": "Readable reference list with source links"
+   }
+  ]
+ },
+ {
+  "sheet": "02 Grounded theory",
+  "slides": [
+   {
+    "n": 1,
+    "title": "Grounded theory",
+    "points": [
+     "Develop an explanatory theory of a social process",
+     "Core principles, study planning and applied examples"
+    ],
+    "visual": "Title slide with a simple topic-related image"
+   },
+   {
+    "n": 2,
+    "title": "Learning objectives",
+    "points": [
+     "Explain the purpose and defining features of grounded theory",
+     "Plan sampling, data collection and analysis appropriate to the approach",
+     "Evaluate quality, ethics and reporting"
+    ],
+    "visual": "Three learning objectives"
+   },
+   {
+    "n": 3,
+    "title": "Definition and intended product",
+    "points": [
+     "Develop theory grounded in systematically analyzed data",
+     "Explain actions, interactions or social processes",
+     "Produce linked concepts rather than a list of themes"
+    ],
+    "visual": "Themes-versus-theory comparison"
+   },
+   {
+    "n": 4,
+    "title": "Origins and theoretical roots",
+    "points": [
+     "Introduce Glaser and Strauss and the emergence of grounded theory",
+     "Explain the role of symbolic interactionism in many approaches",
+     "Note later methodological developments"
+    ],
+    "visual": "Development timeline"
+   },
+   {
+    "n": 5,
+    "title": "Major grounded theory traditions",
+    "points": [
+     "Compare classic, Straussian and constructivist approaches",
+     "Examine differences in researcher role and analytic procedures",
+     "Choose one coherent approach for the study"
+    ],
+    "visual": "Three-tradition comparison"
+   },
+   {
+    "n": 6,
+    "title": "When grounded theory fits",
+    "points": [
+     "Use when a process lacks an adequate explanation",
+     "Focus on how people act under changing conditions",
+     "Assess whether theory generation is the intended outcome"
+    ],
+    "visual": "Design-fit decision tree"
+   },
+   {
+    "n": 7,
+    "title": "Formulating a process question",
+    "points": [
+     "Ask how a process unfolds",
+     "Define the initial population and context",
+     "Leave room to revise the question as analysis develops"
+    ],
+    "visual": "Question-development example"
+   },
+   {
+    "n": 8,
+    "title": "Illustrative research problem",
+    "points": [
+     "Hypothetical example: adapting to long-term eye-drop treatment",
+     "Explore how patients negotiate routines and setbacks",
+     "Aim to explain adaptation rather than only describe barriers"
+    ],
+    "visual": "Process question card"
+   },
+   {
+    "n": 9,
+    "title": "Researcher position and sensitizing concepts",
+    "points": [
+     "Declare relevant experience and assumptions",
+     "Use sensitizing concepts as starting points rather than fixed codes",
+     "Examine how interaction shapes the data"
+    ],
+    "visual": "Reflexive memo example"
+   },
+   {
+    "n": 10,
+    "title": "Initial purposive sampling",
+    "points": [
+     "Begin with participants likely to illuminate the process",
+     "Seek useful variation in experience or circumstances",
+     "Explain how initial sampling differs from later theoretical sampling"
+    ],
+    "visual": "Initial sampling matrix"
+   },
+   {
+    "n": 11,
+    "title": "Theoretical sampling",
+    "points": [
+     "Select additional people, events or documents to develop categories",
+     "Let emerging analytic questions guide recruitment",
+     "Document why each next source was chosen"
+    ],
+    "visual": "Category-gap sampling example"
+   },
+   {
+    "n": 12,
+    "title": "Concurrent collection and analysis",
+    "points": [
+     "Analyze early interviews before collecting all data",
+     "Adapt questions to emerging concepts",
+     "Maintain an iterative relationship between fieldwork and analysis"
+    ],
+    "visual": "Iterative loop diagram"
+   },
+   {
+    "n": 13,
+    "title": "Data collection methods",
+    "points": [
+     "Use intensive interviews, observation or relevant documents",
+     "Ask about actions and changes over time",
+     "Follow up unclear sequences and decisions"
+    ],
+    "visual": "Method-to-process matrix"
+   },
+   {
+    "n": 14,
+    "title": "Initial coding",
+    "points": [
+     "Code close to the data in manageable segments",
+     "Use action-focused labels where consistent with the approach",
+     "Compare alternative interpretations of the same incident"
+    ],
+    "visual": "Hypothetical line-by-line coding"
+   },
+   {
+    "n": 15,
+    "title": "Focused coding and category development",
+    "points": [
+     "Select analytically useful codes",
+     "Group and refine codes into categories",
+     "Specify properties and dimensions of categories"
+    ],
+    "visual": "Code-to-category table"
+   },
+   {
+    "n": 16,
+    "title": "Axial and relational analysis",
+    "points": [
+     "Straussian approaches examine relationships among categories",
+     "Other traditions use different relational procedures",
+     "Avoid imposing a universal coding sequence on every approach"
+    ],
+    "visual": "Approach-specific analysis map"
+   },
+   {
+    "n": 17,
+    "title": "Constant comparative analysis",
+    "points": [
+     "Compare incidents with incidents, codes and categories",
+     "Examine similarities, differences and exceptions",
+     "Refine concepts throughout collection and analysis"
+    ],
+    "visual": "Comparison matrix"
+   },
+   {
+    "n": 18,
+    "title": "Memo writing",
+    "points": [
+     "Record analytic ideas and unanswered questions",
+     "Explain connections and category boundaries",
+     "Use memos to guide theoretical sampling and writing"
+    ],
+    "visual": "Analytic memo template"
+   },
+   {
+    "n": 19,
+    "title": "Theoretical integration",
+    "points": [
+     "Identify a central process or integrative explanation where appropriate",
+     "Link categories into an explanatory account",
+     "Check that relationships are supported by data"
+    ],
+    "visual": "Emerging process model"
+   },
+   {
+    "n": 20,
+    "title": "Theoretical sufficiency and saturation",
+    "points": [
+     "Assess whether categories and relationships are adequately developed",
+     "Seek unresolved variation or negative cases",
+     "Justify stopping with evidence rather than interview count alone"
+    ],
+    "visual": "Category development tracker"
+   },
+   {
+    "n": 21,
+    "title": "Worked analytic example",
+    "points": [
+     "Hypothetical path: missing doses, simplifying routines and seeking support",
+     "Develop possible categories about negotiating treatment burden",
+     "Show how new interviews could challenge the proposed explanation"
+    ],
+    "visual": "Incident-to-category-to-model diagram"
+   },
+   {
+    "n": 22,
+    "title": "Quality and reflexivity",
+    "points": [
+     "Evaluate coherence, grounding and explanatory usefulness",
+     "Maintain an audit trail of comparisons and sampling decisions",
+     "State quality criteria consistent with the chosen tradition"
+    ],
+    "visual": "Theory appraisal questions"
+   },
+   {
+    "n": 23,
+    "title": "Ethics in an evolving design",
+    "points": [
+     "Explain adaptive recruitment and interview changes",
+     "Obtain amendments when required by the approved protocol",
+     "Protect participants in small networks"
+    ],
+    "visual": "Adaptive-study ethics workflow"
+   },
+   {
+    "n": 24,
+    "title": "Reporting, limitations and takeaways",
+    "points": [
+     "Report sampling evolution, coding, memos and the final model",
+     "Avoid presenting thematic analysis alone as grounded theory",
+     "Discuss the scope and transferability of the explanation"
+    ],
+    "visual": "Reporting checklist and discussion prompt"
+   },
+   {
+    "n": 25,
+    "title": "References and further reading",
+    "points": [
+     "Charmaz. Constructing Grounded Theory. SAGE. https://www.sagepub.com/shop/buy-a-book/constructing-grounded-theory-3-255601",
+     "Charmaz. Teaching Theory Construction With Initial Grounded Theory Tools. https://doi.org/10.1177/1049732315613982"
+    ],
+    "visual": "Readable reference list with source links"
+   }
+  ]
+ },
+ {
+  "sheet": "03 Ethnography",
+  "slides": [
+   {
+    "n": 1,
+    "title": "Ethnography",
+    "points": [
+     "Understand shared meanings and practices within a cultural setting",
+     "Core principles, study planning and applied examples"
+    ],
+    "visual": "Title slide with a simple topic-related image"
+   },
+   {
+    "n": 2,
+    "title": "Learning objectives",
+    "points": [
+     "Explain the purpose and defining features of ethnography",
+     "Plan sampling, data collection and analysis appropriate to the approach",
+     "Evaluate quality, ethics and reporting"
+    ],
+    "visual": "Three learning objectives"
+   },
+   {
+    "n": 3,
+    "title": "Definition and purpose",
+    "points": [
+     "Study everyday practices and shared meanings in context",
+     "Examine how a group organizes social life",
+     "Connect observed behavior with cultural interpretation"
+    ],
+    "visual": "Culture-practice-context diagram"
+   },
+   {
+    "n": 4,
+    "title": "Intellectual roots",
+    "points": [
+     "Introduce anthropology and sociological fieldwork",
+     "Explain interpretive and critical developments",
+     "Recognize the legacy of colonial representation"
+    ],
+    "visual": "Historical orientation timeline"
+   },
+   {
+    "n": 5,
+    "title": "Forms of ethnography",
+    "points": [
+     "Compare conventional, focused, critical and digital ethnography",
+     "Distinguish scope and field relations",
+     "Explain why short observation alone is not enough to establish ethnography"
+    ],
+    "visual": "Ethnographic forms table"
+   },
+   {
+    "n": 6,
+    "title": "When ethnography fits",
+    "points": [
+     "Use when routines, tacit norms or group practices matter",
+     "Choose a setting where observation adds essential evidence",
+     "Assess feasibility of meaningful field engagement"
+    ],
+    "visual": "Research-question examples"
+   },
+   {
+    "n": 7,
+    "title": "Framing the research question",
+    "points": [
+     "Ask how people enact and understand practices in a setting",
+     "Define a provisional cultural focus",
+     "Keep room for unexpected field discoveries"
+    ],
+    "visual": "Question-and-setting card"
+   },
+   {
+    "n": 8,
+    "title": "Illustrative study setting",
+    "points": [
+     "Hypothetical example: teamwork in an ophthalmology clinic",
+     "Explore handover routines, professional hierarchy and patient flow",
+     "Examine formal rules alongside everyday practice"
+    ],
+    "visual": "Clinic practice map"
+   },
+   {
+    "n": 9,
+    "title": "Selecting the field and boundaries",
+    "points": [
+     "Define sites, actors and relevant activities",
+     "Consider multiple connected locations when needed",
+     "State temporal and organizational boundaries"
+    ],
+    "visual": "Field boundary diagram"
+   },
+   {
+    "n": 10,
+    "title": "Access and gatekeepers",
+    "points": [
+     "Negotiate entry with responsible organizations",
+     "Seek consent beyond gatekeeper permission",
+     "Explain how access conditions may shape what is observed"
+    ],
+    "visual": "Access plan matrix"
+   },
+   {
+    "n": 11,
+    "title": "Researcher roles in the field",
+    "points": [
+     "Compare participant and non-participant observation",
+     "Explain insider and outsider positions",
+     "Consider how role changes affect relationships and data"
+    ],
+    "visual": "Participation continuum"
+   },
+   {
+    "n": 12,
+    "title": "Sampling people, events and times",
+    "points": [
+     "Select key informants and varied perspectives",
+     "Observe different shifts, routines and exceptional events",
+     "Revise sampling as cultural patterns emerge"
+    ],
+    "visual": "Time-event-person sampling grid"
+   },
+   {
+    "n": 13,
+    "title": "Immersion and field engagement",
+    "points": [
+     "Spend enough time to understand recurring practices",
+     "Develop familiarity without assuming complete membership",
+     "Justify duration in relation to scope and access"
+    ],
+    "visual": "Field engagement schedule"
+   },
+   {
+    "n": 14,
+    "title": "Participant observation",
+    "points": [
+     "Observe actions, interactions and material arrangements",
+     "Record what happens as well as what people say should happen",
+     "Separate descriptive records from interpretive impressions"
+    ],
+    "visual": "Observation guide"
+   },
+   {
+    "n": 15,
+    "title": "Fieldnotes",
+    "points": [
+     "Capture scenes, dialogue, setting and researcher responses",
+     "Expand brief notes promptly",
+     "Keep analytic and reflexive notes identifiable"
+    ],
+    "visual": "Fieldnote structure example"
+   },
+   {
+    "n": 16,
+    "title": "Ethnographic interviewing",
+    "points": [
+     "Use informal conversations and more focused interviews",
+     "Ask participants to explain locally meaningful terms",
+     "Compare accounts with observed practices"
+    ],
+    "visual": "Informal-to-focused prompt examples"
+   },
+   {
+    "n": 17,
+    "title": "Artifacts and digital materials",
+    "points": [
+     "Analyze forms, spaces, tools and online interactions",
+     "Ask how material objects organize activity",
+     "Respect permissions for images and digital access"
+    ],
+    "visual": "Artifact analysis matrix"
+   },
+   {
+    "n": 18,
+    "title": "Emic and etic perspectives",
+    "points": [
+     "Distinguish participants' understandings from analytic interpretation",
+     "Explain local categories before applying external concepts",
+     "Move critically between perspectives"
+    ],
+    "visual": "Emic-etic comparison"
+   },
+   {
+    "n": 19,
+    "title": "Ethnographic analysis",
+    "points": [
+     "Organize field records and identify recurring practices",
+     "Develop cultural themes and relationships",
+     "Revisit the field to investigate puzzles and exceptions"
+    ],
+    "visual": "Fieldnote-to-cultural-pattern diagram"
+   },
+   {
+    "n": 20,
+    "title": "Thick description",
+    "points": [
+     "Describe action alongside context and local meaning",
+     "Explain why a practice matters to participants",
+     "Avoid confusing detail alone with cultural interpretation"
+    ],
+    "visual": "Thin-versus-thick description example"
+   },
+   {
+    "n": 21,
+    "title": "Worked analytic example",
+    "points": [
+     "Hypothetical observation: junior staff rarely challenge a senior's instructions",
+     "Compare interviews, fieldnotes and organizational rules",
+     "Explore hierarchy while seeking situations that contradict the pattern"
+    ],
+    "visual": "Evidence triangulation matrix"
+   },
+   {
+    "n": 22,
+    "title": "Reflexivity, ethics and representation",
+    "points": [
+     "Examine positionality and changing field relationships",
+     "Manage ongoing consent and incidental bystanders",
+     "Avoid stereotypes and protect recognizable groups"
+    ],
+    "visual": "Field ethics scenario"
+   },
+   {
+    "n": 23,
+    "title": "Quality, strengths and limitations",
+    "points": [
+     "Use sustained engagement, contextual evidence and negative cases",
+     "Explain access limits and researcher influence",
+     "Avoid treating one group as representative of an entire population"
+    ],
+    "visual": "Strengths and limitations table"
+   },
+   {
+    "n": 24,
+    "title": "Reporting and key takeaways",
+    "points": [
+     "Integrate scenes, participant language and cultural interpretation",
+     "Describe field access and analytic decisions",
+     "Discuss how observed practices connect with local meanings"
+    ],
+    "visual": "Ethnographic report outline"
+   },
+   {
+    "n": 25,
+    "title": "References and further reading",
+    "points": [
+     "Creswell & Poth. Qualitative Inquiry and Research Design, 5th ed. SAGE. https://us2.sagepub.com/en-us/nam/qualitative-inquiry-and-research-design/book266033"
+    ],
+    "visual": "Readable reference list with source links"
+   }
+  ]
+ },
+ {
+  "sheet": "04 Case study",
+  "slides": [
+   {
+    "n": 1,
+    "title": "Case study",
+    "points": [
+     "Examine a bounded case in depth within its real-world context",
+     "Core principles, study planning and applied examples"
+    ],
+    "visual": "Title slide with a simple topic-related image"
+   },
+   {
+    "n": 2,
+    "title": "Learning objectives",
+    "points": [
+     "Explain the purpose and defining features of case study",
+     "Plan sampling, data collection and analysis appropriate to the approach",
+     "Evaluate quality, ethics and reporting"
+    ],
+    "visual": "Three learning objectives"
+   },
+   {
+    "n": 3,
+    "title": "Definition and purpose",
+    "points": [
+     "Investigate a bounded case within its context",
+     "Integrate multiple sources of evidence",
+     "Clarify that case studies may be qualitative, quantitative or mixed methods"
+    ],
+    "visual": "Case-within-context diagram"
+   },
+   {
+    "n": 4,
+    "title": "Methodological orientations",
+    "points": [
+     "Introduce Yin, Stake and Merriam as influential approaches",
+     "Contrast explanatory and interpretive emphases",
+     "Align the case-study tradition with the research aim"
+    ],
+    "visual": "Orientation comparison table"
+   },
+   {
+    "n": 5,
+    "title": "What counts as a case",
+    "points": [
+     "A case may be a person, program, organization, event or process",
+     "Specify its unit of analysis",
+     "Distinguish the case from participants interviewed within it"
+    ],
+    "visual": "Case-versus-participant examples"
+   },
+   {
+    "n": 6,
+    "title": "Bounding the case",
+    "points": [
+     "Define time, place, activity and organizational limits",
+     "State what is included and excluded",
+     "Keep boundaries aligned with the question"
+    ],
+    "visual": "Boundary box diagram"
+   },
+   {
+    "n": 7,
+    "title": "When case study fits",
+    "points": [
+     "Use for context-dependent how or why questions",
+     "Examine a contemporary or otherwise bounded phenomenon in depth",
+     "Choose another design if case boundaries have no analytic role"
+    ],
+    "visual": "Design-fit examples"
+   },
+   {
+    "n": 8,
+    "title": "Formulating the question",
+    "points": [
+     "Link the question to the bounded case",
+     "Specify what must be understood or explained",
+     "Introduce propositions only where the tradition requires them"
+    ],
+    "visual": "Question-and-case alignment"
+   },
+   {
+    "n": 9,
+    "title": "Illustrative research problem",
+    "points": [
+     "Hypothetical example: implementing teleophthalmology at one hospital",
+     "Bound the implementation to a defined period and service",
+     "Examine organizational influences on adoption"
+    ],
+    "visual": "Case profile card"
+   },
+   {
+    "n": 10,
+    "title": "Intrinsic, instrumental and collective cases",
+    "points": [
+     "Intrinsic work prioritizes the particular case",
+     "Instrumental work uses a case to understand a broader issue",
+     "Collective work examines several cases around an issue"
+    ],
+    "visual": "Purpose comparison table"
+   },
+   {
+    "n": 11,
+    "title": "Single and multiple-case designs",
+    "points": [
+     "Justify depth in one case or comparison across cases",
+     "Select multiple cases for meaningful conceptual comparison",
+     "Avoid treating convenience alone as a full design rationale"
+    ],
+    "visual": "Single-versus-multiple layout"
+   },
+   {
+    "n": 12,
+    "title": "Holistic and embedded units",
+    "points": [
+     "Holistic designs study the case as a whole",
+     "Embedded designs analyze subunits within the case",
+     "Keep subunit findings connected to the overall case"
+    ],
+    "visual": "Nested units diagram"
+   },
+   {
+    "n": 13,
+    "title": "Case selection",
+    "points": [
+     "Consider critical, typical, unusual or contrasting cases",
+     "Explain the logic of selection",
+     "Distinguish conceptual selection from statistical sampling"
+    ],
+    "visual": "Selection rationale matrix"
+   },
+   {
+    "n": 14,
+    "title": "Participant and document sampling",
+    "points": [
+     "Recruit people with different relationships to the case",
+     "Select relevant records and observation opportunities",
+     "Track missing perspectives or inaccessible evidence"
+    ],
+    "visual": "Evidence sampling grid"
+   },
+   {
+    "n": 15,
+    "title": "Case-study protocol",
+    "points": [
+     "Specify questions, access, sources and collection procedures",
+     "Use consistent procedures where comparisons require them",
+     "Adapt responsibly to field conditions"
+    ],
+    "visual": "Protocol structure"
+   },
+   {
+    "n": 16,
+    "title": "Multiple sources of evidence",
+    "points": [
+     "Combine interviews, observation, records and artifacts as appropriate",
+     "Explain what each source can establish",
+     "Do not equate source quantity with automatic credibility"
+    ],
+    "visual": "Evidence-source matrix"
+   },
+   {
+    "n": 17,
+    "title": "Case database and chain of evidence",
+    "points": [
+     "Organize records and preserve source identifiers",
+     "Trace claims to evidence and analytic decisions",
+     "Separate raw materials from interpretive summaries"
+    ],
+    "visual": "Claim-to-source trail"
+   },
+   {
+    "n": 18,
+    "title": "Within-case analysis",
+    "points": [
+     "Build a detailed account of the case",
+     "Examine chronology, patterns and contextual relationships",
+     "Analyze discrepant evidence rather than forcing consensus"
+    ],
+    "visual": "Within-case analytic map"
+   },
+   {
+    "n": 19,
+    "title": "Explanation building and rival accounts",
+    "points": [
+     "Compare possible explanations for observed outcomes",
+     "Test patterns against supporting and contradicting evidence",
+     "State the limits of causal inference"
+    ],
+    "visual": "Rival explanation matrix"
+   },
+   {
+    "n": 20,
+    "title": "Cross-case synthesis",
+    "points": [
+     "Develop each case account before comparison",
+     "Compare themes or explanatory patterns across cases",
+     "Preserve meaningful contextual differences"
+    ],
+    "visual": "Cross-case comparison grid"
+   },
+   {
+    "n": 21,
+    "title": "Worked analytic example",
+    "points": [
+     "Hypothetical evidence links uptake to workflow integration and staff support",
+     "Compare policy documents, interviews and observations",
+     "Examine alternative explanations such as equipment access"
+    ],
+    "visual": "Hypothetical evidence table"
+   },
+   {
+    "n": 22,
+    "title": "Quality and reflexivity",
+    "points": [
+     "Use criteria consistent with the selected tradition",
+     "Make boundaries, evidence and interpretations transparent",
+     "Explain researcher access and assumptions"
+    ],
+    "visual": "Quality appraisal prompts"
+   },
+   {
+    "n": 23,
+    "title": "Ethics, strengths and limitations",
+    "points": [
+     "Protect a potentially identifiable organization and staff",
+     "Balance contextual depth with disclosure risk",
+     "Distinguish analytic transferability from population estimates"
+    ],
+    "visual": "Disclosure-risk and limitations table"
+   },
+   {
+    "n": 24,
+    "title": "Reporting and key takeaways",
+    "points": [
+     "Describe the case, boundaries, methods and context",
+     "Integrate evidence into a coherent account",
+     "Discuss what the case illuminates beyond its immediate setting"
+    ],
+    "visual": "Case report outline"
+   },
+   {
+    "n": 25,
+    "title": "References and further reading",
+    "points": [
+     "Yin. Case Study Research and Applications, 6th ed. SAGE. https://study.sagepub.com/yin6e",
+     "Creswell & Poth. Qualitative Inquiry and Research Design. https://us2.sagepub.com/en-us/nam/qualitative-inquiry-and-research-design/book266033"
+    ],
+    "visual": "Readable reference list with source links"
+   }
+  ]
+ },
+ {
+  "sheet": "05 Narrative inquiry",
+  "slides": [
+   {
+    "n": 1,
+    "title": "Narrative inquiry",
+    "points": [
+     "Explore how people construct and communicate experience through stories",
+     "Core principles, study planning and applied examples"
+    ],
+    "visual": "Title slide with a simple topic-related image"
+   },
+   {
+    "n": 2,
+    "title": "Learning objectives",
+    "points": [
+     "Explain the purpose and defining features of narrative inquiry",
+     "Plan sampling, data collection and analysis appropriate to the approach",
+     "Evaluate quality, ethics and reporting"
+    ],
+    "visual": "Three learning objectives"
+   },
+   {
+    "n": 3,
+    "title": "Definition and purpose",
+    "points": [
+     "Investigate experience as narrated and interpreted",
+     "Explore identity, sequence and meaning in stories",
+     "Preserve the relationship between events and their telling"
+    ],
+    "visual": "Experience-story-interpretation diagram"
+   },
+   {
+    "n": 4,
+    "title": "Conceptual foundations",
+    "points": [
+     "Introduce narrative construction and situated meaning",
+     "Explain temporal, social and spatial dimensions of experience",
+     "Recognize that stories are shaped for audiences"
+    ],
+    "visual": "Three dimensions of narrative inquiry"
+   },
+   {
+    "n": 5,
+    "title": "Forms of narrative research",
+    "points": [
+     "Compare life histories, illness narratives and focused personal accounts",
+     "Consider oral, written and visual stories",
+     "Choose the form that answers the research question"
+    ],
+    "visual": "Narrative forms matrix"
+   },
+   {
+    "n": 6,
+    "title": "When narrative inquiry fits",
+    "points": [
+     "Use for identity development, transitions or turning points",
+     "Seek an account of experience across time",
+     "Avoid fragmenting stories when their sequence is central"
+    ],
+    "visual": "Design-fit examples"
+   },
+   {
+    "n": 7,
+    "title": "Formulating the question",
+    "points": [
+     "Ask how participants narrate a transition or construct identity",
+     "Specify whose stories and which period matter",
+     "Consider the context and audience of the telling"
+    ],
+    "visual": "Question-development example"
+   },
+   {
+    "n": 8,
+    "title": "Illustrative research problem",
+    "points": [
+     "Hypothetical example: a physician's transition into a new healthcare system",
+     "Explore belonging, uncertainty and professional identity over time",
+     "Treat the telling as part of the data"
+    ],
+    "visual": "Narrative question card"
+   },
+   {
+    "n": 9,
+    "title": "Selecting participants and stories",
+    "points": [
+     "Use purposive selection for rich relevant accounts",
+     "Decide whether to study one or several narrators",
+     "Justify depth and variation without a universal sample rule"
+    ],
+    "visual": "Participant-story selection matrix"
+   },
+   {
+    "n": 10,
+    "title": "Building research relationships",
+    "points": [
+     "Establish trust while acknowledging researcher influence",
+     "Negotiate expectations around interpretation and representation",
+     "Recognize stories as produced within a relationship"
+    ],
+    "visual": "Relationship reflection prompts"
+   },
+   {
+    "n": 11,
+    "title": "Narrative interview design",
+    "points": [
+     "Begin with invitations to tell a story",
+     "Ask follow-ups about episodes and turning points",
+     "Limit interruption during an unfolding account"
+    ],
+    "visual": "Story-eliciting interview guide"
+   },
+   {
+    "n": 12,
+    "title": "Temporal prompts and life maps",
+    "points": [
+     "Use timelines to locate significant periods and events",
+     "Ask how interpretations changed over time",
+     "Keep chronology distinct from the order in which a story is told"
+    ],
+    "visual": "Participant timeline example"
+   },
+   {
+    "n": 13,
+    "title": "Additional narrative materials",
+    "points": [
+     "Consider diaries, letters, photographs and digital stories",
+     "Ask participants to explain their significance",
+     "Verify permission and authorship of materials"
+    ],
+    "visual": "Narrative materials table"
+   },
+   {
+    "n": 14,
+    "title": "Transcription and representation",
+    "points": [
+     "Preserve pauses, emphasis or sequencing when analytically relevant",
+     "State conventions used",
+     "Recognize transcription as an interpretive decision"
+    ],
+    "visual": "Transcript convention example"
+   },
+   {
+    "n": 15,
+    "title": "Reconstructing the narrative context",
+    "points": [
+     "Identify setting, actors, audience and circumstances",
+     "Distinguish narrated events from present-day interpretation",
+     "Preserve uncertainty and conflicting recollections"
+    ],
+    "visual": "Context map"
+   },
+   {
+    "n": 16,
+    "title": "Thematic narrative analysis",
+    "points": [
+     "Examine what a story is about",
+     "Analyze content within whole-case narratives",
+     "Compare accounts without losing each story's context"
+    ],
+    "visual": "Within-story theme table"
+   },
+   {
+    "n": 17,
+    "title": "Structural narrative analysis",
+    "points": [
+     "Examine how a story is organized and told",
+     "Identify plot, sequence and evaluative elements",
+     "Explain how form contributes to meaning"
+    ],
+    "visual": "Annotated story structure"
+   },
+   {
+    "n": 18,
+    "title": "Dialogic and performance analysis",
+    "points": [
+     "Examine who tells the story, to whom and for what purpose",
+     "Analyze positioning and interaction during the telling",
+     "Consider social narratives and available identities"
+    ],
+    "visual": "Speaker-audience-context triangle"
+   },
+   {
+    "n": 19,
+    "title": "Visual narrative analysis",
+    "points": [
+     "Explore how images and accompanying accounts construct a story",
+     "Consider composition, sequence and participant interpretation",
+     "Avoid interpreting images without their context"
+    ],
+    "visual": "Image-story sequence"
+   },
+   {
+    "n": 20,
+    "title": "Worked analytic example",
+    "points": [
+     "Hypothetical account moves from confidence to disorientation to renewed belonging",
+     "Compare event chronology with narrative structure",
+     "Ask what identity the narrator constructs for the audience"
+    ],
+    "visual": "Event-versus-story timeline"
+   },
+   {
+    "n": 21,
+    "title": "Reflexivity and researcher voice",
+    "points": [
+     "Examine how questions shape the story told",
+     "Make interpretive choices visible",
+     "Distinguish participant words from researcher reconstruction"
+    ],
+    "visual": "Reflexive interpretation log"
+   },
+   {
+    "n": 22,
+    "title": "Ethics and relational responsibilities",
+    "points": [
+     "Negotiate identifiable life details and third-party portrayals",
+     "Discuss consent for quotations and images",
+     "Revisit consent as representation develops"
+    ],
+    "visual": "Representation ethics scenario"
+   },
+   {
+    "n": 23,
+    "title": "Quality, strengths and limitations",
+    "points": [
+     "Support interpretation with coherent narrative evidence",
+     "Consider participant dialogue where appropriate",
+     "Discuss memory, audience effects and limits of retrospective accounts"
+    ],
+    "visual": "Narrative appraisal table"
+   },
+   {
+    "n": 24,
+    "title": "Reporting and key takeaways",
+    "points": [
+     "Present stories with sufficient temporal and social context",
+     "Explain the selected analytic approach",
+     "Discuss how storytelling constructs meaning and identity"
+    ],
+    "visual": "Narrative report outline"
+   },
+   {
+    "n": 25,
+    "title": "References and further reading",
+    "points": [
+     "Riessman. Narrative Methods for the Human Sciences. SAGE. https://www.sagepub.com/shop/buy-a-book/narrative-methods-for-the-human-sciences-1-226139",
+     "Creswell & Poth. Qualitative Inquiry and Research Design. https://us2.sagepub.com/en-us/nam/qualitative-inquiry-and-research-design/book266033"
+    ],
+    "visual": "Readable reference list with source links"
+   }
+  ]
+ },
+ {
+  "sheet": "06 Qualitative descriptive",
+  "slides": [
+   {
+    "n": 1,
+    "title": "Qualitative descriptive study",
+    "points": [
+     "Provide a clear, practice-relevant description in everyday terms",
+     "Core principles, study planning and applied examples"
+    ],
+    "visual": "Title slide with a simple topic-related image"
+   },
+   {
+    "n": 2,
+    "title": "Learning objectives",
+    "points": [
+     "Explain the purpose and defining features of qualitative descriptive study",
+     "Plan sampling, data collection and analysis appropriate to the approach",
+     "Evaluate quality, ethics and reporting"
+    ],
+    "visual": "Three learning objectives"
+   },
+   {
+    "n": 3,
+    "title": "Definition and purpose",
+    "points": [
+     "Provide a comprehensive account of an event or experience",
+     "Stay close to participants' everyday terms",
+     "Use interpretation while keeping the level of abstraction relatively low"
+    ],
+    "visual": "Description-to-abstraction continuum"
+   },
+   {
+    "n": 4,
+    "title": "Methodological orientation",
+    "points": [
+     "Explain a naturalistic orientation and attention to context",
+     "Use flexible methods suited to the question",
+     "Avoid claiming that description is entirely interpretation-free"
+    ],
+    "visual": "Methodological orientation diagram"
+   },
+   {
+    "n": 5,
+    "title": "Distinctive features",
+    "points": [
+     "Prioritize accessible descriptions and practical questions",
+     "Seek an organized account of participants' perspectives",
+     "Do not require theory generation or a phenomenological essence"
+    ],
+    "visual": "Feature summary table"
+   },
+   {
+    "n": 6,
+    "title": "When qualitative description fits",
+    "points": [
+     "Use for needs, barriers, preferences and service experiences",
+     "Choose when a direct practical account is the intended outcome",
+     "Assess whether more interpretive designs are needed"
+    ],
+    "visual": "Question-to-design examples"
+   },
+   {
+    "n": 7,
+    "title": "Distinguishing adjacent approaches",
+    "points": [
+     "Compare descriptive aims with phenomenology and grounded theory",
+     "Contrast everyday categories with higher conceptual abstraction",
+     "State why a descriptive approach meets the objective"
+    ],
+    "visual": "Design comparison matrix"
+   },
+   {
+    "n": 8,
+    "title": "Formulating the question",
+    "points": [
+     "Use focused what or how questions",
+     "Identify the population and practical issue",
+     "Avoid building an explanatory theory claim into a descriptive aim"
+    ],
+    "visual": "Question wording example"
+   },
+   {
+    "n": 9,
+    "title": "Illustrative research problem",
+    "points": [
+     "Hypothetical example: patients' barriers to glaucoma follow-up",
+     "Describe logistical, informational and interpersonal difficulties",
+     "Explore helpful service changes from participants' perspectives"
+    ],
+    "visual": "Study question card"
+   },
+   {
+    "n": 10,
+    "title": "Researcher position",
+    "points": [
+     "Describe the researcher's relationship to the setting",
+     "Reflect on assumptions about patient needs",
+     "Keep a record of decisions that affect description"
+    ],
+    "visual": "Reflexive prompts"
+   },
+   {
+    "n": 11,
+    "title": "Sampling strategy",
+    "points": [
+     "Use purposive or maximum-variation sampling where appropriate",
+     "Seek perspectives relevant to the practical question",
+     "Explain inclusion criteria and recruitment channels"
+    ],
+    "visual": "Sampling matrix"
+   },
+   {
+    "n": 12,
+    "title": "Sample adequacy",
+    "points": [
+     "Consider breadth of perspectives and depth of accounts",
+     "Assess whether the data answer the focused question",
+     "Justify stopping without imposing a universal number"
+    ],
+    "visual": "Coverage and depth tracker"
+   },
+   {
+    "n": 13,
+    "title": "Semi-structured interviews",
+    "points": [
+     "Use open questions with practical probes",
+     "Ask for concrete examples and proposed improvements",
+     "Pilot the guide for clarity and accessibility"
+    ],
+    "visual": "Interview guide excerpt"
+   },
+   {
+    "n": 14,
+    "title": "Focus groups",
+    "points": [
+     "Explore shared and differing perspectives through interaction",
+     "Consider how hierarchy or stigma affects speaking",
+     "Explain when individual interviews are preferable"
+    ],
+    "visual": "Interview-versus-focus-group table"
+   },
+   {
+    "n": 15,
+    "title": "Observation and documents",
+    "points": [
+     "Use observations or materials when they clarify the service context",
+     "Link sources to the question",
+     "Distinguish observed events from reported experiences"
+    ],
+    "visual": "Data-source contribution matrix"
+   },
+   {
+    "n": 16,
+    "title": "Preparing the data",
+    "points": [
+     "Transcribe, organize and de-identify records",
+     "Preserve relevant context and participant language",
+     "Document translation and transcription decisions"
+    ],
+    "visual": "Preparation workflow"
+   },
+   {
+    "n": 17,
+    "title": "Qualitative content analysis",
+    "points": [
+     "Select a content-analysis approach suited to the aim",
+     "Develop categories systematically from relevant data",
+     "Explain whether categories are inductive, deductive or combined"
+    ],
+    "visual": "Content analysis workflow"
+   },
+   {
+    "n": 18,
+    "title": "Coding and category development",
+    "points": [
+     "Assign clear labels to meaningful segments",
+     "Group related codes into descriptive categories",
+     "Define category boundaries and revise them with new evidence"
+    ],
+    "visual": "Hypothetical codebook excerpt"
+   },
+   {
+    "n": 19,
+    "title": "Using summaries and matrices",
+    "points": [
+     "Compare categories across participants and contexts",
+     "Preserve variation and contradictory accounts",
+     "Use matrices to organize rather than replace interpretation"
+    ],
+    "visual": "Participant-category matrix"
+   },
+   {
+    "n": 20,
+    "title": "Worked analytic example",
+    "points": [
+     "Hypothetical comments describe transport costs and unclear appointment instructions",
+     "Build distinct categories with supporting excerpts",
+     "Avoid interpreting convenience-selected counts as population prevalence"
+    ],
+    "visual": "Excerpt-to-category table"
+   },
+   {
+    "n": 21,
+    "title": "Reflexivity and analytic transparency",
+    "points": [
+     "Record how categories were developed",
+     "Discuss interpretive disagreements constructively",
+     "Explain how prior assumptions influenced analysis"
+    ],
+    "visual": "Decision log example"
+   },
+   {
+    "n": 22,
+    "title": "Credibility and transferability",
+    "points": [
+     "Support categories with adequate evidence",
+     "Describe setting and recruitment clearly",
+     "Seek feedback or additional evidence where useful"
+    ],
+    "visual": "Quality appraisal prompts"
+   },
+   {
+    "n": 23,
+    "title": "Ethics, strengths and limitations",
+    "points": [
+     "Protect participants discussing dissatisfaction with services",
+     "Produce accessible findings for practical use",
+     "Recognize limited explanatory depth relative to theory-focused aims"
+    ],
+    "visual": "Strengths and limitations table"
+   },
+   {
+    "n": 24,
+    "title": "Reporting and key takeaways",
+    "points": [
+     "Present clear categories, variation and relevant excerpts",
+     "Separate findings from proposed service implications",
+     "Explain why qualitative description fits the intended product"
+    ],
+    "visual": "Descriptive report outline"
+   },
+   {
+    "n": 25,
+    "title": "References and further reading",
+    "points": [
+     "Sandelowski M. Whatever happened to qualitative description? Research in Nursing & Health. 2000;23(4):334-340. https://pubmed.ncbi.nlm.nih.gov/10940958/"
+    ],
+    "visual": "Readable reference list with source links"
+   }
+  ]
+ },
+ {
+  "sheet": "07 Participatory action",
+  "slides": [
+   {
+    "n": 1,
+    "title": "Participatory action research",
+    "points": [
+     "Co-produce knowledge and action with people affected by the issue",
+     "Core principles, study planning and applied examples"
+    ],
+    "visual": "Title slide with a simple topic-related image"
+   },
+   {
+    "n": 2,
+    "title": "Learning objectives",
+    "points": [
+     "Explain the purpose and defining features of participatory action research",
+     "Plan sampling, data collection and analysis appropriate to the approach",
+     "Evaluate quality, ethics and reporting"
+    ],
+    "visual": "Three learning objectives"
+   },
+   {
+    "n": 3,
+    "title": "Definition and purpose",
+    "points": [
+     "Combine collective inquiry with action for change",
+     "Involve affected people as research partners",
+     "Explain that participatory action research can use qualitative and quantitative methods"
+    ],
+    "visual": "Participation-inquiry-action diagram"
+   },
+   {
+    "n": 4,
+    "title": "Foundations and values",
+    "points": [
+     "Introduce democratic participation and critical reflection",
+     "Examine power, inequality and situated knowledge",
+     "Treat practical and experiential expertise as important knowledge"
+    ],
+    "visual": "Values map"
+   },
+   {
+    "n": 5,
+    "title": "PAR and action research",
+    "points": [
+     "PAR places explicit emphasis on shared ownership and participation",
+     "Action research is a broader family of iterative inquiry",
+     "Recognize overlap rather than a rigid boundary"
+    ],
+    "visual": "Comparison table"
+   },
+   {
+    "n": 6,
+    "title": "When PAR fits",
+    "points": [
+     "Use when affected groups should shape research and change",
+     "Assess readiness for a sustained partnership",
+     "Avoid adopting a participatory label for consultation alone"
+    ],
+    "visual": "Design-fit scenarios"
+   },
+   {
+    "n": 7,
+    "title": "Identifying partners and stakeholders",
+    "points": [
+     "Map who experiences the problem and who holds resources",
+     "Include marginalized voices and relevant decision-makers",
+     "Clarify differences between stakeholders and co-researchers"
+    ],
+    "visual": "Stakeholder and power map"
+   },
+   {
+    "n": 8,
+    "title": "Building the partnership",
+    "points": [
+     "Discuss expectations, trust and prior experiences",
+     "Agree on compensation, roles and ways of working",
+     "Invest time before finalizing the research agenda"
+    ],
+    "visual": "Partnership formation steps"
+   },
+   {
+    "n": 9,
+    "title": "Shared governance",
+    "points": [
+     "Co-develop decision-making and conflict-resolution procedures",
+     "Agree who controls budgets, data and dissemination",
+     "Make accountability visible throughout the project"
+    ],
+    "visual": "Governance agreement outline"
+   },
+   {
+    "n": 10,
+    "title": "Co-defining the research question",
+    "points": [
+     "Ask partners which problems matter most",
+     "Negotiate a feasible question and action goal",
+     "Record how priorities were chosen"
+    ],
+    "visual": "Priority-setting workshop layout"
+   },
+   {
+    "n": 11,
+    "title": "Illustrative research problem",
+    "points": [
+     "Hypothetical example: community barriers to glaucoma screening",
+     "Residents and staff jointly identify access priorities",
+     "Frame both an inquiry question and a change objective"
+    ],
+    "visual": "Joint problem-and-action card"
+   },
+   {
+    "n": 12,
+    "title": "Researcher positionality and power",
+    "points": [
+     "Examine institutional privilege and unequal influence",
+     "Make assumptions and constraints open for discussion",
+     "Create ways to challenge researcher decisions"
+    ],
+    "visual": "Power reflection matrix"
+   },
+   {
+    "n": 13,
+    "title": "Recruitment and inclusive participation",
+    "points": [
+     "Use accessible recruitment and meeting formats",
+     "Address language, transport, disability and time barriers",
+     "Monitor whose perspectives remain absent"
+    ],
+    "visual": "Participation-access checklist"
+   },
+   {
+    "n": 14,
+    "title": "Co-designing data collection",
+    "points": [
+     "Choose interviews, observation, mapping or other methods together",
+     "Train co-researchers and pilot tools collaboratively",
+     "Match methods to both inquiry and action goals"
+    ],
+    "visual": "Method co-design matrix"
+   },
+   {
+    "n": 15,
+    "title": "Participatory methods",
+    "points": [
+     "Consider photovoice, community mapping and collective story gathering",
+     "Discuss strengths and disclosure risks",
+     "Explain how participants help interpret the material"
+    ],
+    "visual": "Participatory method examples"
+   },
+   {
+    "n": 16,
+    "title": "The inquiry and action cycle",
+    "points": [
+     "Identify the issue, plan action, act, observe and reflect",
+     "Treat cycles as flexible rather than mechanical",
+     "Revise questions and activities through collective learning"
+    ],
+    "visual": "PAR cycle diagram"
+   },
+   {
+    "n": 17,
+    "title": "Collaborative analysis",
+    "points": [
+     "Make data accessible to co-researchers in appropriate forms",
+     "Discuss interpretations and disagreements together",
+     "Document whose perspectives shape conclusions"
+    ],
+    "visual": "Shared analysis workshop outline"
+   },
+   {
+    "n": 18,
+    "title": "From findings to action",
+    "points": [
+     "Translate jointly interpreted evidence into priorities",
+     "Assign responsibilities and feasible resources",
+     "Distinguish recommended actions from actions actually implemented"
+    ],
+    "visual": "Evidence-to-action matrix"
+   },
+   {
+    "n": 19,
+    "title": "Implementing change",
+    "points": [
+     "Pilot agreed activities and document adaptations",
+     "Track participation and unintended consequences",
+     "Preserve shared decision-making during implementation"
+    ],
+    "visual": "Action implementation log"
+   },
+   {
+    "n": 20,
+    "title": "Evaluating process and outcomes",
+    "points": [
+     "Assess partnership quality as well as practical changes",
+     "Agree indicators with partners",
+     "Use qualitative and quantitative evidence where helpful"
+    ],
+    "visual": "Process-and-outcome evaluation table"
+   },
+   {
+    "n": 21,
+    "title": "Worked project example",
+    "points": [
+     "Hypothetical cycle identifies inaccessible appointment times",
+     "Partners pilot an agreed scheduling change and collect feedback",
+     "Reflect jointly before deciding the next cycle"
+    ],
+    "visual": "Two-cycle project storyboard"
+   },
+   {
+    "n": 22,
+    "title": "Ethics and ownership",
+    "points": [
+     "Negotiate consent, confidentiality and data stewardship",
+     "Address collective and individual interests",
+     "Agree authorship, recognition and dissemination rights"
+    ],
+    "visual": "Ethics and ownership agreement"
+   },
+   {
+    "n": 23,
+    "title": "Quality, strengths and limitations",
+    "points": [
+     "Evaluate participation, relevance and transparent learning",
+     "Recognize resource demands and power tensions",
+     "Avoid equating immediate success with rigorous inquiry"
+    ],
+    "visual": "Quality and limitations matrix"
+   },
+   {
+    "n": 24,
+    "title": "Reporting and key takeaways",
+    "points": [
+     "Report partner roles, decisions, cycles and outcomes",
+     "Share findings in forms useful to the community",
+     "Discuss whether participation changed both knowledge and action"
+    ],
+    "visual": "PAR report and discussion prompts"
+   },
+   {
+    "n": 25,
+    "title": "References and further reading",
+    "points": [
+     "Baum F, MacDougall C, Smith D. Participatory action research. Journal of Epidemiology and Community Health. 2006;60:854-857. https://pubmed.ncbi.nlm.nih.gov/16973531/",
+     "Kemmis, McTaggart & Nixon. The Action Research Planner. Springer. https://link.springer.com/book/10.1007/978-981-4560-67-2"
+    ],
+    "visual": "Readable reference list with source links"
+   }
+  ]
+ },
+ {
+  "sheet": "08 Action research",
+  "slides": [
+   {
+    "n": 1,
+    "title": "Action research",
+    "points": [
+     "Improve a local practice through systematic cycles of inquiry and reflection",
+     "Core principles, study planning and applied examples"
+    ],
+    "visual": "Title slide with a simple topic-related image"
+   },
+   {
+    "n": 2,
+    "title": "Learning objectives",
+    "points": [
+     "Explain the purpose and defining features of action research",
+     "Plan sampling, data collection and analysis appropriate to the approach",
+     "Evaluate quality, ethics and reporting"
+    ],
+    "visual": "Three learning objectives"
+   },
+   {
+    "n": 3,
+    "title": "Definition and purpose",
+    "points": [
+     "Investigate practice while attempting to improve it",
+     "Connect action with systematic observation and reflection",
+     "Explain that action research may use qualitative, quantitative or mixed methods"
+    ],
+    "visual": "Practice-inquiry-improvement diagram"
+   },
+   {
+    "n": 4,
+    "title": "Roots and orientations",
+    "points": [
+     "Introduce iterative inquiry associated with Lewin",
+     "Compare practical, collaborative and critical orientations",
+     "Explain how aims shape participation and evidence"
+    ],
+    "visual": "Orientation comparison table"
+   },
+   {
+    "n": 5,
+    "title": "Distinguishing adjacent activities",
+    "points": [
+     "Compare action research with routine quality improvement and evaluation",
+     "Explain the role of systematic inquiry and learning",
+     "Recognize overlap and context-dependent boundaries"
+    ],
+    "visual": "Three-approach comparison"
+   },
+   {
+    "n": 6,
+    "title": "Action research and PAR",
+    "points": [
+     "Both involve inquiry linked to change",
+     "PAR explicitly foregrounds shared ownership by affected people",
+     "State the actual level of participation instead of relying on a label"
+    ],
+    "visual": "Participation comparison"
+   },
+   {
+    "n": 7,
+    "title": "When action research fits",
+    "points": [
+     "Use for a local practice problem that can be acted on",
+     "Ensure access to implementation and observation",
+     "Assess whether iterative learning is feasible"
+    ],
+    "visual": "Design-fit decision tree"
+   },
+   {
+    "n": 8,
+    "title": "Identifying the practice problem",
+    "points": [
+     "Gather initial evidence of the problem",
+     "Include practitioners' and users' perspectives",
+     "Separate assumptions from documented concerns"
+    ],
+    "visual": "Problem statement template"
+   },
+   {
+    "n": 9,
+    "title": "Formulating the question",
+    "points": [
+     "Link an improvement goal to an inquiry question",
+     "Ask what happens when a defined change is introduced",
+     "Define the setting and intended learning"
+    ],
+    "visual": "Question and goal alignment"
+   },
+   {
+    "n": 10,
+    "title": "Illustrative research problem",
+    "points": [
+     "Hypothetical example: improving clarity of glaucoma education",
+     "Ask how a revised consultation guide changes communication",
+     "Examine patient and staff experiences of the change"
+    ],
+    "visual": "Local improvement question card"
+   },
+   {
+    "n": 11,
+    "title": "Setting, team and roles",
+    "points": [
+     "Define the practice context and project team",
+     "Clarify practitioner and researcher responsibilities",
+     "Record who decides what changes"
+    ],
+    "visual": "Role-and-setting matrix"
+   },
+   {
+    "n": 12,
+    "title": "Baseline inquiry",
+    "points": [
+     "Observe existing practice before intervention",
+     "Collect interviews, documents or available measures",
+     "Use baseline evidence to refine the first action"
+    ],
+    "visual": "Baseline evidence table"
+   },
+   {
+    "n": 13,
+    "title": "Planning the first cycle",
+    "points": [
+     "Specify the action, rationale and resources",
+     "Agree what evidence will be collected",
+     "Set criteria for revising or stopping the activity"
+    ],
+    "visual": "Cycle planning template"
+   },
+   {
+    "n": 14,
+    "title": "Taking action",
+    "points": [
+     "Implement the agreed practice change",
+     "Document fidelity and adaptations",
+     "Record practical constraints as data for reflection"
+    ],
+    "visual": "Implementation log"
+   },
+   {
+    "n": 15,
+    "title": "Observing the effects",
+    "points": [
+     "Collect evidence of experiences, behavior and consequences",
+     "Capture unintended effects and contextual changes",
+     "Avoid relying only on practitioner impressions"
+    ],
+    "visual": "Observation and feedback matrix"
+   },
+   {
+    "n": 16,
+    "title": "Reflecting and revising",
+    "points": [
+     "Compare intended and observed effects",
+     "Discuss explanations and alternative actions",
+     "Document how reflection changes the next plan"
+    ],
+    "visual": "Reflection meeting prompts"
+   },
+   {
+    "n": 17,
+    "title": "Designing subsequent cycles",
+    "points": [
+     "Revise the action based on prior learning",
+     "Keep the inquiry question coherent as practice evolves",
+     "Explain why cycles differ rather than presenting a fixed recipe"
+    ],
+    "visual": "Two-cycle comparison"
+   },
+   {
+    "n": 18,
+    "title": "Qualitative data collection",
+    "points": [
+     "Use interviews, group discussions, journals and observation",
+     "Ask about usability and contextual barriers",
+     "Align collection timing with each cycle"
+    ],
+    "visual": "Cycle-by-method schedule"
+   },
+   {
+    "n": 19,
+    "title": "Using complementary measures",
+    "points": [
+     "Add service indicators or surveys where relevant",
+     "State definitions and limitations of measures",
+     "Treat counts as supporting evidence rather than automatic causal proof"
+    ],
+    "visual": "Qualitative-and-quantitative evidence table"
+   },
+   {
+    "n": 20,
+    "title": "Analysis across cycles",
+    "points": [
+     "Analyze each cycle and compare patterns over time",
+     "Link evidence to specific adaptations",
+     "Examine alternative explanations for observed change"
+    ],
+    "visual": "Cycle comparison matrix"
+   },
+   {
+    "n": 21,
+    "title": "Practitioner reflexivity",
+    "points": [
+     "Consider how investment in success shapes interpretation",
+     "Keep reflective records of decisions and tensions",
+     "Seek critical perspectives beyond the project team"
+    ],
+    "visual": "Reflective journal template"
+   },
+   {
+    "n": 22,
+    "title": "Worked project example",
+    "points": [
+     "Hypothetical first cycle reveals an education guide is too technical",
+     "A revised version is tested in a second cycle",
+     "Compare feedback without inventing evidence of effectiveness"
+    ],
+    "visual": "Two-cycle storyboard"
+   },
+   {
+    "n": 23,
+    "title": "Ethics, quality and limitations",
+    "points": [
+     "Manage power relationships with patients, staff or students",
+     "Explain permissions for service changes and research data",
+     "Recognize local scope and limits on causal attribution"
+    ],
+    "visual": "Ethics and quality checklist"
+   },
+   {
+    "n": 24,
+    "title": "Reporting and key takeaways",
+    "points": [
+     "Describe problem, actions, evidence, reflection and revisions",
+     "Distinguish implementation outcomes from research learning",
+     "Discuss what can transfer to another practice setting"
+    ],
+    "visual": "Action research report outline"
+   },
+   {
+    "n": 25,
+    "title": "References and further reading",
+    "points": [
+     "Kemmis, McTaggart & Nixon. The Action Research Planner: Doing Critical Participatory Action Research. Springer. https://link.springer.com/book/10.1007/978-981-4560-67-2"
+    ],
+    "visual": "Readable reference list with source links"
+   }
+  ]
+ },
+ {
+  "sheet": "09 Interpretive description",
+  "slides": [
+   {
+    "n": 1,
+    "title": "Interpretive description",
+    "points": [
+     "Develop contextual interpretations that inform professional practice",
+     "Core principles, study planning and applied examples"
+    ],
+    "visual": "Title slide with a simple topic-related image"
+   },
+   {
+    "n": 2,
+    "title": "Learning objectives",
+    "points": [
+     "Explain the purpose and defining features of interpretive description",
+     "Plan sampling, data collection and analysis appropriate to the approach",
+     "Evaluate quality, ethics and reporting"
+    ],
+    "visual": "Three learning objectives"
+   },
+   {
+    "n": 3,
+    "title": "Definition and intended product",
+    "points": [
+     "Generate an interpretive account useful for applied practice",
+     "Examine patterns alongside individual variation",
+     "Move beyond description toward practice-relevant understanding"
+    ],
+    "visual": "Description-interpretation-practice diagram"
+   },
+   {
+    "n": 4,
+    "title": "Origins and disciplinary purpose",
+    "points": [
+     "Introduce Thorne and colleagues' nursing-oriented development",
+     "Explain the need for applied knowledge distinct from disciplinary theory goals",
+     "Recognize use in other professional contexts"
+    ],
+    "visual": "Disciplinary purpose map"
+   },
+   {
+    "n": 5,
+    "title": "Philosophical orientation",
+    "points": [
+     "Attend to constructed and contextual experience",
+     "Acknowledge multiple realities and researcher interpretation",
+     "Explain how disciplinary assumptions influence inquiry"
+    ],
+    "visual": "Knowledge-and-context diagram"
+   },
+   {
+    "n": 6,
+    "title": "Distinctive features",
+    "points": [
+     "Use professional knowledge critically as a starting point",
+     "Seek patterns that can inform practice",
+     "Preserve exceptions and complexity"
+    ],
+    "visual": "Feature summary"
+   },
+   {
+    "n": 7,
+    "title": "When interpretive description fits",
+    "points": [
+     "Choose an applied question requiring contextual understanding",
+     "Seek meaningful patterns rather than a formal social-process theory",
+     "Assess whether findings can support professional judgment"
+    ],
+    "visual": "Design-fit examples"
+   },
+   {
+    "n": 8,
+    "title": "Comparing neighboring designs",
+    "points": [
+     "Qualitative description stays relatively close to everyday accounts",
+     "Phenomenology centers lived meaning and grounded theory builds theory",
+     "Interpretive description pursues applied interpretation"
+    ],
+    "visual": "Four-design comparison"
+   },
+   {
+    "n": 9,
+    "title": "Formulating the question",
+    "points": [
+     "Ask how experiences or practices vary and why that matters professionally",
+     "Identify the clinical or applied problem",
+     "Avoid assuming the answer from professional expertise"
+    ],
+    "visual": "Question-development example"
+   },
+   {
+    "n": 10,
+    "title": "Illustrative research problem",
+    "points": [
+     "Hypothetical example: how patients integrate glaucoma monitoring into daily life",
+     "Explore different circumstances and needs",
+     "Seek insights for individualized follow-up support"
+    ],
+    "visual": "Applied question card"
+   },
+   {
+    "n": 11,
+    "title": "Reviewing existing knowledge",
+    "points": [
+     "Identify relevant clinical evidence and conceptual assumptions",
+     "Use literature to clarify the practical gap",
+     "Keep prior knowledge open to challenge by the data"
+    ],
+    "visual": "Knowledge-gap map"
+   },
+   {
+    "n": 12,
+    "title": "Researcher position and disciplinary lens",
+    "points": [
+     "State professional experience and relationships",
+     "Examine how expertise guides attention and interpretation",
+     "Reflect on assumptions about what counts as useful knowledge"
+    ],
+    "visual": "Disciplinary reflexivity prompts"
+   },
+   {
+    "n": 13,
+    "title": "Purposive sampling",
+    "points": [
+     "Recruit cases likely to reveal patterns and meaningful variation",
+     "Consider experience, circumstances and practice context",
+     "Revise selection to investigate emerging interpretations"
+    ],
+    "visual": "Variation sampling matrix"
+   },
+   {
+    "n": 14,
+    "title": "Sample adequacy",
+    "points": [
+     "Judge whether evidence supports the applied interpretation",
+     "Seek exceptions and unresolved differences",
+     "Justify scope and depth rather than a universal sample count"
+    ],
+    "visual": "Analytic adequacy tracker"
+   },
+   {
+    "n": 15,
+    "title": "Interviews and focused discussions",
+    "points": [
+     "Invite concrete experiences and practical examples",
+     "Probe variation in needs and responses",
+     "Avoid making interviews into clinical counseling sessions"
+    ],
+    "visual": "Applied interview guide"
+   },
+   {
+    "n": 16,
+    "title": "Observation and supporting sources",
+    "points": [
+     "Observe relevant interactions or routines when feasible",
+     "Use documents to understand the practice context",
+     "Explain how different sources inform the interpretation"
+    ],
+    "visual": "Data-source contribution table"
+   },
+   {
+    "n": 17,
+    "title": "Concurrent analytic work",
+    "points": [
+     "Begin analysis while collection continues",
+     "Adjust questions to investigate emerging differences",
+     "Record changes in the analytic focus"
+    ],
+    "visual": "Collection-analysis loop"
+   },
+   {
+    "n": 18,
+    "title": "Coding without losing context",
+    "points": [
+     "Use codes to organize material rather than define the final findings",
+     "Compare accounts within and across cases",
+     "Keep personal circumstances attached to interpretations"
+    ],
+    "visual": "Contextual coding example"
+   },
+   {
+    "n": 19,
+    "title": "Developing interpretive patterns",
+    "points": [
+     "Ask what patterns mean for the applied problem",
+     "Examine relationships among experience, context and responses",
+     "Avoid reducing all differences to a single theme"
+    ],
+    "visual": "Pattern-and-variation matrix"
+   },
+   {
+    "n": 20,
+    "title": "Testing interpretations",
+    "points": [
+     "Seek alternative explanations and discrepant cases",
+     "Revisit evidence and collect clarifying data when possible",
+     "Separate a plausible interpretation from a proven causal mechanism"
+    ],
+    "visual": "Interpretation challenge table"
+   },
+   {
+    "n": 21,
+    "title": "Worked analytic example",
+    "points": [
+     "Hypothetical accounts suggest support needs differ by routine flexibility and uncertainty",
+     "Compare contrasting cases before proposing a pattern",
+     "Show how the interpretation could guide further inquiry"
+    ],
+    "visual": "Contrasting case matrix"
+   },
+   {
+    "n": 22,
+    "title": "Translating findings into practice",
+    "points": [
+     "Explain implications for assessment or communication",
+     "Preserve uncertainty and individual variation",
+     "Distinguish an interpretive implication from a tested intervention"
+    ],
+    "visual": "Finding-to-practice implication table"
+   },
+   {
+    "n": 23,
+    "title": "Quality, ethics and limitations",
+    "points": [
+     "Demonstrate coherence, analytic logic and contextual relevance",
+     "Protect participants within professional relationships",
+     "Recognize researcher influence and limits of untested recommendations"
+    ],
+    "visual": "Quality and limitations checklist"
+   },
+   {
+    "n": 24,
+    "title": "Reporting and key takeaways",
+    "points": [
+     "Describe disciplinary grounding, sampling and analytic decisions",
+     "Present interpretations with supporting evidence and exceptions",
+     "Discuss how findings inform rather than replace professional judgment"
+    ],
+    "visual": "Interpretive report outline"
+   },
+   {
+    "n": 25,
+    "title": "References and further reading",
+    "points": [
+     "Thorne S, Kirkham SR, MacDonald-Emes J. Interpretive description: a noncategorical qualitative alternative for developing nursing knowledge. Research in Nursing & Health. 1997;20(2):169-177. https://pubmed.ncbi.nlm.nih.gov/9100747/"
+    ],
+    "visual": "Readable reference list with source links"
+   }
+  ]
+ },
+ {
+  "sheet": "10 Discourse analysis",
+  "slides": [
+   {
+    "n": 1,
+    "title": "Discourse analysis",
+    "points": [
+     "Examine how language constructs meaning, identity and social relations",
+     "Core principles, study planning and applied examples"
+    ],
+    "visual": "Title slide with a simple topic-related image"
+   },
+   {
+    "n": 2,
+    "title": "Learning objectives",
+    "points": [
+     "Explain the purpose and defining features of discourse analysis",
+     "Plan sampling, data collection and analysis appropriate to the approach",
+     "Evaluate quality, ethics and reporting"
+    ],
+    "visual": "Three learning objectives"
+   },
+   {
+    "n": 3,
+    "title": "Definition and purpose",
+    "points": [
+     "Analyze language as social action and meaning-making",
+     "Examine identities, categories and relationships produced in discourse",
+     "Explain that discourse analysis is a family of approaches"
+    ],
+    "visual": "Language-action-context diagram"
+   },
+   {
+    "n": 4,
+    "title": "Conceptual foundations",
+    "points": [
+     "Introduce socially situated meaning and discourse",
+     "Explain relationships between language, institutions and power",
+     "State the theoretical position guiding analysis"
+    ],
+    "visual": "Conceptual foundations map"
+   },
+   {
+    "n": 5,
+    "title": "Major analytic traditions",
+    "points": [
+     "Compare critical discourse analysis, discursive psychology and Foucauldian approaches",
+     "Note distinct assumptions, questions and analytic tools",
+     "Avoid combining traditions without justification"
+    ],
+    "visual": "Tradition comparison matrix"
+   },
+   {
+    "n": 6,
+    "title": "When discourse analysis fits",
+    "points": [
+     "Use when wording, interaction or representation is central",
+     "Examine how a category or claim becomes persuasive",
+     "Choose a content-focused design if only topic summaries are needed"
+    ],
+    "visual": "Question-to-design comparison"
+   },
+   {
+    "n": 7,
+    "title": "Formulating the research question",
+    "points": [
+     "Ask how language constructs an identity, problem or responsibility",
+     "Specify the discourse and setting",
+     "Identify what linguistic or social process needs examination"
+    ],
+    "visual": "Question wording examples"
+   },
+   {
+    "n": 8,
+    "title": "Illustrative research problem",
+    "points": [
+     "Hypothetical example: representations of patient adherence in clinic materials",
+     "Ask how responsibility is assigned to patients and services",
+     "Examine implications for professional-patient relations"
+    ],
+    "visual": "Discourse question card"
+   },
+   {
+    "n": 9,
+    "title": "Selecting the corpus",
+    "points": [
+     "Define documents, conversations or media to be analyzed",
+     "State time period, inclusion criteria and source context",
+     "Justify boundaries and exclusions"
+    ],
+    "visual": "Corpus selection flow"
+   },
+   {
+    "n": 10,
+    "title": "Sampling and corpus adequacy",
+    "points": [
+     "Select material relevant to the discursive question",
+     "Seek variation, contrasts or important institutional texts",
+     "Assess analytic depth rather than representativeness alone"
+    ],
+    "visual": "Corpus matrix"
+   },
+   {
+    "n": 11,
+    "title": "Production and audience context",
+    "points": [
+     "Identify who produced each text and for whom",
+     "Examine institutional purpose and circulation",
+     "Avoid treating words as detached from their setting"
+    ],
+    "visual": "Producer-text-audience map"
+   },
+   {
+    "n": 12,
+    "title": "Data collection and permissions",
+    "points": [
+     "Collect authentic texts or recorded interactions where suitable",
+     "Verify access, copyright and consent",
+     "Retain source provenance and versions"
+    ],
+    "visual": "Corpus inventory example"
+   },
+   {
+    "n": 13,
+    "title": "Transcription detail",
+    "points": [
+     "Match transcription detail to the analytic approach",
+     "Preserve pauses or turn-taking when relevant",
+     "State how translation may change discursive features"
+    ],
+    "visual": "Transcript conventions table"
+   },
+   {
+    "n": 14,
+    "title": "Initial reading and analytic notes",
+    "points": [
+     "Read repeatedly for recurring constructions and puzzles",
+     "Note contrasts and shifts across contexts",
+     "Keep early interpretations provisional"
+    ],
+    "visual": "Analytic reading guide"
+   },
+   {
+    "n": 15,
+    "title": "Categories, naming and lexical choices",
+    "points": [
+     "Examine labels, pronouns and evaluative terms",
+     "Ask which identities and distinctions are created",
+     "Link observations to the question and context"
+    ],
+    "visual": "Annotated hypothetical text"
+   },
+   {
+    "n": 16,
+    "title": "Agency, grammar and responsibility",
+    "points": [
+     "Examine who is represented as acting or being acted on",
+     "Consider active, passive and nominalized constructions",
+     "Avoid inferring social effects from grammar alone"
+    ],
+    "visual": "Paired sentence comparison"
+   },
+   {
+    "n": 17,
+    "title": "Metaphor and framing",
+    "points": [
+     "Identify recurring metaphors and problem definitions",
+     "Ask what perspectives they enable or obscure",
+     "Examine competing framings in the corpus"
+    ],
+    "visual": "Framing comparison table"
+   },
+   {
+    "n": 18,
+    "title": "Interpretive repertoires and positioning",
+    "points": [
+     "For relevant traditions, examine recurring ways of talking",
+     "Analyze how speakers position themselves and others",
+     "Show how these constructions function in particular exchanges"
+    ],
+    "visual": "Positioning map"
+   },
+   {
+    "n": 19,
+    "title": "Power and ideology",
+    "points": [
+     "In critical approaches, examine authority and inequality",
+     "Relate text to institutional and social practices",
+     "Support critical claims with evidence rather than assumptions"
+    ],
+    "visual": "Text-institution-power map"
+   },
+   {
+    "n": 20,
+    "title": "Intertextuality and wider discourses",
+    "points": [
+     "Examine references to other texts and established narratives",
+     "Trace how language travels between settings",
+     "Consider how prior discourses authorize present claims"
+    ],
+    "visual": "Intertextual connection map"
+   },
+   {
+    "n": 21,
+    "title": "Worked analytic example",
+    "points": [
+     "Hypothetical phrase describes missed visits as patient failure",
+     "Compare wording that also names transport and service barriers",
+     "Analyze possible constructions without claiming measured effects"
+    ],
+    "visual": "Side-by-side annotated excerpt"
+   },
+   {
+    "n": 22,
+    "title": "Analytic transparency and reflexivity",
+    "points": [
+     "Show excerpts and the reasoning behind interpretations",
+     "Examine the researcher's own assumptions and language",
+     "Consider alternative readings and counterexamples"
+    ],
+    "visual": "Claim-evidence-interpretation table"
+   },
+   {
+    "n": 23,
+    "title": "Ethics, strengths and limitations",
+    "points": [
+     "Protect identities in recordings and searchable quotations",
+     "Explain limits on inferring private intentions or causal outcomes",
+     "Distinguish discourse findings from prevalence estimates"
+    ],
+    "visual": "Ethics and limitations table"
+   },
+   {
+    "n": 24,
+    "title": "Reporting and key takeaways",
+    "points": [
+     "State the analytic tradition, corpus and procedures",
+     "Present detailed excerpts with contextual interpretation",
+     "Discuss what language accomplishes in the selected setting"
+    ],
+    "visual": "Discourse report outline"
+   },
+   {
+    "n": 25,
+    "title": "References and further reading",
+    "points": [
+     "Fairclough. Discourse and Social Change. Wiley/Polity. https://www.wiley-vch.de/en?isbn=9780745612188&option=com_eshop&view=product",
+     "Riessman. Narrative Methods for the Human Sciences. SAGE. https://www.sagepub.com/shop/buy-a-book/narrative-methods-for-the-human-sciences-1-226139"
+    ],
+    "visual": "Readable reference list with source links"
+   }
+  ]
+ },
+ {
+  "sheet": "11 Historical research",
+  "slides": [
+   {
+    "n": 1,
+    "title": "Historical research",
+    "points": [
+     "Reconstruct and interpret past developments through critically assessed evidence",
+     "Core principles, study planning and applied examples"
+    ],
+    "visual": "Title slide with a simple topic-related image"
+   },
+   {
+    "n": 2,
+    "title": "Learning objectives",
+    "points": [
+     "Explain the purpose and defining features of historical research",
+     "Plan sampling, data collection and analysis appropriate to the approach",
+     "Evaluate quality, ethics and reporting"
+    ],
+    "visual": "Three learning objectives"
+   },
+   {
+    "n": 3,
+    "title": "Definition and purpose",
+    "points": [
+     "Investigate change, continuity and meaning in the past",
+     "Build interpretations from critically assessed sources",
+     "Explain that historical research can include qualitative and quantitative evidence"
+    ],
+    "visual": "Past-evidence-interpretation diagram"
+   },
+   {
+    "n": 4,
+    "title": "Historical reasoning",
+    "points": [
+     "Distinguish chronology from historical explanation",
+     "Consider contingency, context and multiple perspectives",
+     "Avoid assuming present categories applied unchanged in the past"
+    ],
+    "visual": "Chronology-versus-explanation comparison"
+   },
+   {
+    "n": 5,
+    "title": "Forms and orientations",
+    "points": [
+     "Introduce social, institutional, intellectual and oral history",
+     "Compare microhistory with broader historical accounts",
+     "Select an orientation aligned with the question"
+    ],
+    "visual": "Historical approach matrix"
+   },
+   {
+    "n": 6,
+    "title": "When historical research fits",
+    "points": [
+     "Use to explain origins and developments across time",
+     "Examine how institutions, practices or concepts changed",
+     "Assess whether relevant evidence survives and is accessible"
+    ],
+    "visual": "Design-fit examples"
+   },
+   {
+    "n": 7,
+    "title": "Formulating the research question",
+    "points": [
+     "Specify a past phenomenon, period and setting",
+     "Ask how or why a development occurred",
+     "Keep the question feasible within available sources"
+    ],
+    "visual": "Question-building example"
+   },
+   {
+    "n": 8,
+    "title": "Illustrative research problem",
+    "points": [
+     "Hypothetical example: development of optic disc photography in a defined region",
+     "Investigate changes in technology, clinical use and teaching",
+     "Bound the inquiry by period and institutions"
+    ],
+    "visual": "Historical question card"
+   },
+   {
+    "n": 9,
+    "title": "Periodization and boundaries",
+    "points": [
+     "Justify starting and ending dates",
+     "Explain significant turning points without assuming inevitable progress",
+     "Reassess boundaries as evidence develops"
+    ],
+    "visual": "Periodization timeline"
+   },
+   {
+    "n": 10,
+    "title": "Historiography and existing accounts",
+    "points": [
+     "Review how historians have interpreted the topic",
+     "Identify disagreements, omissions and evidence gaps",
+     "Position the study within those debates"
+    ],
+    "visual": "Historiographic comparison table"
+   },
+   {
+    "n": 11,
+    "title": "Primary and secondary sources",
+    "points": [
+     "Distinguish contemporaneous evidence from later interpretation",
+     "Recognize that the distinction depends on the research question",
+     "Use both critically rather than treating primary sources as automatically reliable"
+    ],
+    "visual": "Source-type examples"
+   },
+   {
+    "n": 12,
+    "title": "Archival search strategy",
+    "points": [
+     "Identify archives, collections and finding aids",
+     "Record search terms, access limits and selection decisions",
+     "Plan for incomplete or dispersed records"
+    ],
+    "visual": "Archive search plan"
+   },
+   {
+    "n": 13,
+    "title": "Document provenance",
+    "points": [
+     "Record creator, date, custody and original purpose",
+     "Track whether a record is an original, copy or later transcription",
+     "Preserve collection and item identifiers"
+    ],
+    "visual": "Provenance record example"
+   },
+   {
+    "n": 14,
+    "title": "External criticism",
+    "points": [
+     "Assess authenticity, authorship and dating",
+     "Examine alterations and the transmission of the source",
+     "State uncertainties about provenance"
+    ],
+    "visual": "Authenticity appraisal checklist"
+   },
+   {
+    "n": 15,
+    "title": "Internal criticism",
+    "points": [
+     "Assess meaning, purpose, bias and credibility",
+     "Consider the author's position and intended audience",
+     "Ask what the source could know or reasonably establish"
+    ],
+    "visual": "Credibility appraisal matrix"
+   },
+   {
+    "n": 16,
+    "title": "Contextual interpretation",
+    "points": [
+     "Read language and actions within their historical setting",
+     "Examine institutions and norms of the period",
+     "Avoid judging evidence only through present assumptions"
+    ],
+    "visual": "Context layers diagram"
+   },
+   {
+    "n": 17,
+    "title": "Corroboration and conflicting sources",
+    "points": [
+     "Compare independent records and perspectives",
+     "Investigate discrepancies rather than averaging them away",
+     "Distinguish established facts from contested interpretations"
+    ],
+    "visual": "Conflicting evidence matrix"
+   },
+   {
+    "n": 18,
+    "title": "Archival silences and selection bias",
+    "points": [
+     "Ask whose experiences were recorded or excluded",
+     "Consider survival, access and institutional preservation bias",
+     "Avoid treating missing records as proof of non-occurrence"
+    ],
+    "visual": "Silence and survival map"
+   },
+   {
+    "n": 19,
+    "title": "Oral history",
+    "points": [
+     "Use interviews to study recollection and lived historical meaning",
+     "Distinguish memory from contemporaneous records",
+     "Explain consent, recording and future archival use"
+    ],
+    "visual": "Memory-and-document comparison"
+   },
+   {
+    "n": 20,
+    "title": "Analysis and synthesis",
+    "points": [
+     "Organize evidence by chronology and analytical themes",
+     "Examine relationships, continuity and turning points",
+     "Maintain a traceable connection between claims and sources"
+    ],
+    "visual": "Chronology-theme evidence matrix"
+   },
+   {
+    "n": 21,
+    "title": "Worked analytic example",
+    "points": [
+     "Hypothetical sources disagree on when routine photography began",
+     "Compare equipment records, teaching materials and recollections",
+     "Present a bounded conclusion with unresolved uncertainty"
+    ],
+    "visual": "Source corroboration example"
+   },
+   {
+    "n": 22,
+    "title": "Historical explanation and rival accounts",
+    "points": [
+     "Consider technological, institutional and professional explanations",
+     "Distinguish temporal sequence from causal evidence",
+     "Avoid a single inevitable-progress narrative"
+    ],
+    "visual": "Rival explanation table"
+   },
+   {
+    "n": 23,
+    "title": "Ethics, strengths and limitations",
+    "points": [
+     "Respect archive rules and privacy in sensitive records",
+     "Recognize unequal representation and incomplete evidence",
+     "Address translation, access and interpretation limits"
+    ],
+    "visual": "Ethics and limitations checklist"
+   },
+   {
+    "n": 24,
+    "title": "Reporting and key takeaways",
+    "points": [
+     "State period, sources, source criticism and interpretive choices",
+     "Build a coherent account with precise source references",
+     "Make uncertainty and competing explanations visible"
+    ],
+    "visual": "Historical report outline"
+   },
+   {
+    "n": 25,
+    "title": "References and further reading",
+    "points": [
+     "Howell & Prevenier. From Reliable Sources: An Introduction to Historical Methods. Cornell University Press. Publisher overview: https://cornellpress.cornell.edu/cornell-university-press-greatest-hits-from-each-decade/"
+    ],
+    "visual": "Readable reference list with source links"
+   }
+  ]
+ },
+ {
+  "sheet": "12 Autoethnography",
+  "slides": [
+   {
+    "n": 1,
+    "title": "Autoethnography",
+    "points": [
+     "Analyze personal experience to understand wider cultural and social life",
+     "Core principles, study planning and applied examples"
+    ],
+    "visual": "Title slide with a simple topic-related image"
+   },
+   {
+    "n": 2,
+    "title": "Learning objectives",
+    "points": [
+     "Explain the purpose and defining features of autoethnography",
+     "Plan sampling, data collection and analysis appropriate to the approach",
+     "Evaluate quality, ethics and reporting"
+    ],
+    "visual": "Three learning objectives"
+   },
+   {
+    "n": 3,
+    "title": "Definition and purpose",
+    "points": [
+     "Use personal experience as material for cultural inquiry",
+     "Connect the self with social relationships and institutions",
+     "Explain why research analysis is essential beyond personal storytelling"
+    ],
+    "visual": "Self-experience-culture diagram"
+   },
+   {
+    "n": 4,
+    "title": "Intellectual foundations",
+    "points": [
+     "Introduce reflexive ethnography and situated knowledge",
+     "Recognize challenges to detached accounts of research",
+     "Examine how researcher identity affects what can be known"
+    ],
+    "visual": "Foundations map"
+   },
+   {
+    "n": 5,
+    "title": "Forms of autoethnography",
+    "points": [
+     "Compare evocative, analytic, critical and collaborative forms",
+     "Explain differences in representation and analytic emphasis",
+     "Select a form aligned with the intended contribution"
+    ],
+    "visual": "Forms comparison table"
+   },
+   {
+    "n": 6,
+    "title": "When autoethnography fits",
+    "points": [
+     "Use when the researcher's experience offers insight into a cultural issue",
+     "Identify a question extending beyond personal recollection",
+     "Assess willingness and ethical capacity for self-disclosure"
+    ],
+    "visual": "Design-fit examples"
+   },
+   {
+    "n": 7,
+    "title": "Distinguishing autobiography and narrative inquiry",
+    "points": [
+     "Autobiography recounts a life without necessarily conducting cultural analysis",
+     "Narrative inquiry may focus on other people's stories",
+     "Autoethnography makes the self-culture connection central"
+    ],
+    "visual": "Three-approach comparison"
+   },
+   {
+    "n": 8,
+    "title": "Formulating the research question",
+    "points": [
+     "Ask what personal experience reveals about social norms or institutions",
+     "Define the cultural setting and issue",
+     "Avoid assuming one person's experience represents everyone"
+    ],
+    "visual": "Question-development example"
+   },
+   {
+    "n": 9,
+    "title": "Illustrative research problem",
+    "points": [
+     "Hypothetical example: an international physician adapting to a new clinical culture",
+     "Examine language, belonging and institutional expectations",
+     "Connect personal episodes with broader professional norms"
+    ],
+    "visual": "Self-and-culture question card"
+   },
+   {
+    "n": 10,
+    "title": "Researcher positionality",
+    "points": [
+     "Describe identity, relationships and institutional location",
+     "Examine privilege and vulnerability",
+     "Reflect on whose perspectives the account cannot capture"
+    ],
+    "visual": "Positionality map"
+   },
+   {
+    "n": 11,
+    "title": "Bounding the experience",
+    "points": [
+     "Specify the period, setting and episodes to be examined",
+     "Explain why those experiences matter to the question",
+     "Distinguish selection criteria from memorable incidents alone"
+    ],
+    "visual": "Experience boundary timeline"
+   },
+   {
+    "n": 12,
+    "title": "Personal records as data",
+    "points": [
+     "Use journals, messages, photographs or recorded reflections where appropriate",
+     "Preserve dates and contextual information",
+     "Verify permission before including other people's materials"
+    ],
+    "visual": "Personal data inventory"
+   },
+   {
+    "n": 13,
+    "title": "Memory work",
+    "points": [
+     "Write detailed recollections and note uncertainty",
+     "Compare memories with available records",
+     "Treat memory's selectivity as an analytic issue"
+    ],
+    "visual": "Memory-and-record comparison"
+   },
+   {
+    "n": 14,
+    "title": "Collecting contextual evidence",
+    "points": [
+     "Use institutional documents, observation or relevant literature",
+     "Examine the norms surrounding personal episodes",
+     "Avoid treating contextual material as automatic validation of every memory"
+    ],
+    "visual": "Contextual evidence matrix"
+   },
+   {
+    "n": 15,
+    "title": "Journaling and reflexive records",
+    "points": [
+     "Record events, emotions and later interpretations separately",
+     "Trace changes in understanding over time",
+     "Use journals to expose assumptions as well as experiences"
+    ],
+    "visual": "Reflexive journal template"
+   },
+   {
+    "n": 16,
+    "title": "Selecting significant episodes",
+    "points": [
+     "Choose episodes that illuminate the cultural question",
+     "Include contradictions and uncomfortable experiences",
+     "Explain the selection process"
+    ],
+    "visual": "Episode selection matrix"
+   },
+   {
+    "n": 17,
+    "title": "Analytic coding and thematic work",
+    "points": [
+     "Analyze patterns across episodes where appropriate to the chosen form",
+     "Examine identity, power and relationships",
+     "Keep analytic claims connected to specific experiences"
+    ],
+    "visual": "Episode-to-pattern table"
+   },
+   {
+    "n": 18,
+    "title": "Connecting the personal and cultural",
+    "points": [
+     "Ask how institutional norms shape the experience",
+     "Examine how the researcher responds to or reproduces those norms",
+     "Avoid assuming every personal difficulty has one structural explanation"
+    ],
+    "visual": "Personal-cultural connection map"
+   },
+   {
+    "n": 19,
+    "title": "Evocative representation",
+    "points": [
+     "Use scene, dialogue and emotion to convey experience",
+     "Make reconstructed dialogue and composite scenes explicit when used",
+     "Keep ethical and analytic responsibilities visible"
+    ],
+    "visual": "Scene-writing example"
+   },
+   {
+    "n": 20,
+    "title": "Analytic and critical representation",
+    "points": [
+     "Develop explicit cultural or theoretical interpretation where the form requires it",
+     "Examine competing explanations",
+     "Show how the account contributes beyond the individual"
+    ],
+    "visual": "Episode-interpretation-contribution table"
+   },
+   {
+    "n": 21,
+    "title": "Worked analytic example",
+    "points": [
+     "Hypothetical episode concerns hesitation to speak during a team meeting",
+     "Compare personal interpretation with contextual norms and alternative readings",
+     "Explore belonging and hierarchy without claiming universal behavior"
+    ],
+    "visual": "Annotated hypothetical vignette"
+   },
+   {
+    "n": 22,
+    "title": "Relational ethics and consent",
+    "points": [
+     "Consider people who appear in the researcher's story",
+     "Negotiate consent and disguise identifiable details responsibly",
+     "Recognize that pseudonyms may not prevent recognition"
+    ],
+    "visual": "Relational ethics scenario"
+   },
+   {
+    "n": 23,
+    "title": "Quality, self-disclosure and limitations",
+    "points": [
+     "Assess coherence, reflexivity, cultural insight and evidence appropriate to the form",
+     "Set boundaries around sensitive disclosure",
+     "Discuss selective memory and limits of transferability"
+    ],
+    "visual": "Quality and disclosure checklist"
+   },
+   {
+    "n": 24,
+    "title": "Reporting and key takeaways",
+    "points": [
+     "Explain data, researcher position, analytic form and representation choices",
+     "Integrate lived episodes with cultural understanding",
+     "Discuss how the self becomes a site of inquiry"
+    ],
+    "visual": "Autoethnographic report outline"
+   },
+   {
+    "n": 25,
+    "title": "References and further reading",
+    "points": [
+     "Ellis C, Adams TE, Bochner AP. Autoethnography: An Overview. Forum Qualitative Sozialforschung / Forum: Qualitative Social Research. 12(1). https://doi.org/10.17169/fqs-12.1.1589"
+    ],
+    "visual": "Readable reference list with source links"
+   }
+  ]
+ }
+]
