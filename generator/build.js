@@ -1,7 +1,8 @@
-// Builds one PowerPoint deck per topic in slides.json (extracted from the
-// "Qualitative Research – 12 Topics, 25 Slides" workbook).
+// Builds one PowerPoint deck per topic for a series of research-methods
+// workbooks ("Qualitative Research – 12 Topics", "Quantitative Research –
+// 11 Topics"). Slide text lives in <series>.json, extracted from each workbook.
 //
-//   NODE_PATH=$PWD/node_modules node build.js [outDir] [applyThemePath]
+//   NODE_PATH=$PWD/node_modules node build.js <qualitative|quantitative> [applyThemePath]
 //
 // Every deck shares the same layouts and design system; each topic gets its
 // own accent colour through the deck theme.
@@ -14,26 +15,60 @@ const ReactDOMServer = require("react-dom/server");
 const sharp = require("sharp");
 const Fa = require("react-icons/fa");
 
-const OUT_DIR = path.resolve(process.argv[2] || path.join(__dirname, "..", "decks"));
+// ---------- series ----------
+// accents: topic number -> [accent colour, title-slide icon]
+// specials: "topic/slide" -> a layout drawn from figures given in the workbook itself
+const SERIES = {
+  qualitative: {
+    label: "Qualitative Research Methods",
+    accents: {
+      "01": ["6D2E46", "FaRegEye"],        // Phenomenology – berry
+      "02": ["2C5F2D", "FaSeedling"],      // Grounded theory – forest
+      "03": ["A2462F", "FaGlobeAmericas"], // Ethnography – terracotta
+      "04": ["1E2761", "FaSearchPlus"],    // Case study – navy
+      "05": ["5B3A82", "FaBookOpen"],      // Narrative inquiry – violet
+      "06": ["0B6E79", "FaClipboardList"], // Qualitative descriptive – teal
+      "07": ["9A4317", "FaHandsHelping"],  // Participatory action – burnt orange
+      "08": ["4A6526", "FaSyncAlt"],       // Action research – olive
+      "09": ["2F5671", "FaLightbulb"],     // Interpretive description – slate blue
+      "10": ["8C2F39", "FaComments"],      // Discourse analysis – crimson
+      "11": ["6E5326", "FaLandmark"],      // Historical research – bronze
+      "12": ["3E4A61", "FaUserEdit"],      // Autoethnography – ink
+    },
+    specials: {},
+  },
+  quantitative: {
+    label: "Quantitative Research Methods",
+    accents: {
+      "01": ["7B2D26", "FaFileMedical"],   // Case report – oxblood
+      "02": ["8A4F0F", "FaClone"],         // Case series – amber brown
+      "03": ["2E6B3A", "FaGlobe"],         // Ecological study – green
+      "04": ["1F5F7A", "FaChartPie"],      // Cross-sectional – deep teal blue
+      "05": ["6A3D7C", "FaBalanceScale"],  // Case-control – purple
+      "06": ["245C4F", "FaUsers"],         // Cohort – pine
+      "07": ["A0522D", "FaExchangeAlt"],   // Uncontrolled before-after – sienna
+      "08": ["3B4F8C", "FaColumns"],       // Controlled before-after – indigo
+      "09": ["0F6A73", "FaChartLine"],     // Interrupted time series – teal
+      "10": ["7A3B5C", "FaUserMd"],        // Nonrandomized trial – plum
+      "11": ["1E3A5F", "FaRandom"],        // Randomized trial – navy
+    },
+    specials: {
+      "04/15": { layout: "formula", label: "Prevalence", top: "Existing cases", bottom: "Eligible population assessed" },
+      "05/16": { layout: "twoByTwo" },
+      "06/15": { layout: "formula", label: "Incidence rate", top: "Number of events", bottom: "Total person-time at risk" },
+      "07/22": { layout: "barChart", title: "Hypothetical attendance (%)", labels: ["Before", "After"], values: [60, 75] },
+    },
+  },
+};
+
+const SERIES_NAME = process.argv[2] || "qualitative";
+const CFG = SERIES[SERIES_NAME];
+if (!CFG) throw new Error(`Unknown series ${SERIES_NAME}; use ${Object.keys(SERIES).join(" or ")}`);
+const OUT_DIR = path.join(__dirname, "..", "decks", SERIES_NAME);
 const APPLY_THEME = process.argv[3];
 const { applyTheme } = APPLY_THEME ? require(APPLY_THEME) : { applyTheme: null };
-const DECKS = JSON.parse(fs.readFileSync(path.join(__dirname, "slides.json"), "utf8"));
-
-// ---------- palette ----------
-const ACCENTS = {
-  "01": ["6D2E46", "FaRegEye"],        // Phenomenology – berry
-  "02": ["2C5F2D", "FaSeedling"],      // Grounded theory – forest
-  "03": ["A2462F", "FaGlobeAmericas"], // Ethnography – terracotta
-  "04": ["1E2761", "FaSearchPlus"],    // Case study – navy
-  "05": ["5B3A82", "FaBookOpen"],      // Narrative inquiry – violet
-  "06": ["0B6E79", "FaClipboardList"], // Qualitative descriptive – teal
-  "07": ["9A4317", "FaHandsHelping"],  // Participatory action – burnt orange
-  "08": ["4A6526", "FaSyncAlt"],       // Action research – olive
-  "09": ["2F5671", "FaLightbulb"],     // Interpretive description – slate blue
-  "10": ["8C2F39", "FaComments"],      // Discourse analysis – crimson
-  "11": ["6E5326", "FaLandmark"],      // Historical research – bronze
-  "12": ["3E4A61", "FaUserEdit"],      // Autoethnography – ink
-};
+const DECKS = JSON.parse(fs.readFileSync(path.join(__dirname, `${SERIES_NAME}.json`), "utf8"));
+const ACCENTS = CFG.accents;
 
 const mix = (hex, target, t) => {
   const a = parseInt(hex, 16), b = parseInt(target, 16);
@@ -77,6 +112,13 @@ const ICON_RULES = [
   [/objective/, "FaBullseye"],
   [/worked|illustrative|example/, "FaPuzzlePiece"],
   [/ethic|consent|sensitive/, "FaShieldAlt"],
+  [/random|allocation/, "FaRandom"],
+  [/blind|mask/, "FaEyeSlash"],
+  [/bias|confound|imbalance|attrition|missing/, "FaExclamationTriangle"],
+  [/odds|ratio|prevalence|incidence|person-time|sample size|power|statistic|regression|estimat|calculat|difference-in|survival|propensity|precision/, "FaCalculator"],
+  [/autocorrelation|seasonal|trend|time series|time-series|its /, "FaChartLine"],
+  [/measure|outcome|exposure|ascertain|baseline/, "FaRulerCombined"],
+  [/timeline|follow-up|window|time zero/, "FaClock"],
   [/strength|limitation|error/, "FaBalanceScale"],
   [/quality|credib|rigou?r|trustworth|sufficien|saturation/, "FaCheckCircle"],
   [/report|writing|present/, "FaFileAlt"],
@@ -139,15 +181,15 @@ async function buildDeck(deck) {
   const num = deck.sheet.slice(0, 2);
   const [acc, topicIcon] = ACCENTS[num];
   const topic = deck.slides[0].title;
-  const THEME = makeTheme(`Qualitative Research – ${topic}`, acc);
+  const THEME = makeTheme(`${CFG.label} – ${topic}`, acc);
 
   const pres = new pptxgen();
   pres.layout = "LAYOUT_WIDE";
   pres.title = topic;
-  pres.subject = "Qualitative research methods";
+  pres.subject = CFG.label;
   pres.theme = { headFontFace: THEME.headFontFace, bodyFontFace: THEME.bodyFontFace };
   const C = pres.SchemeColor;
-  const footer = `Qualitative Research Methods  ·  Topic ${num}  ·  ${topic}`;
+  const footer = `${CFG.label}  ·  Topic ${num}  ·  ${topic}`;
 
   pres.defineSlideMaster({
     title: "Title",
@@ -193,6 +235,16 @@ async function buildDeck(deck) {
     slide.addText(s.title, { placeholder: "title" });
   }
 
+  // Numbered talking points stacked in the right-hand column, from x to the margin.
+  function rightRows(slide, pts, x, first) {
+    const w = W - M - x, rh = (BOTTOM - TOP - 0.1) / pts.length;
+    pts.forEach((p, i) => {
+      const y = TOP + 0.1 + i * rh + 0.1;
+      numCircle(slide, first + i, x, y, 0.62);
+      body(slide, p, { x: x + 0.95, y: y + 0.05, w: w - 0.95, h: rh - 0.2, fontSize: 22 });
+    });
+  }
+
   // ----- content layouts (three talking points each) -----
   const L = {
     async cards(slide, pts) {
@@ -213,6 +265,52 @@ async function buildDeck(deck) {
       ].map((c) => ({ ...c, options: { ...c.options, fill: { color: i % 2 ? C.background1 : C.background2 } } }))));
       const rowH = 1.2;
       slide.addTable(rows, { x: M, y: TOP + 0.15, w: CW, colW: [1.3, CW - 1.3], rowH: [0.55, rowH, rowH, rowH], valign: "middle", margin: [0.08, 0.3, 0.08, 0.3], border: { type: "solid", pt: 1, color: THEME.colors.accent6 }, objectName: `${s.title} table` });
+    },
+    // ----- layouts built from figures stated in the workbook -----
+    async formula(slide, pts, s, spec) {
+      const pw = 5.6, ph = BOTTOM - TOP - 0.1, x = M, y = TOP + 0.1;
+      slide.addShape(pres.shapes.ROUNDED_RECTANGLE, { x, y, w: pw, h: ph, rectRadius: 0.15, fill: { color: C.accent1 }, line: { type: "none" }, shadow: shadow(), objectName: "Formula panel" });
+      slide.addText("FORMULA", { x: x + 0.45, y: y + 0.4, w: pw - 0.9, h: 0.4, fontSize: 12, bold: true, charSpacing: 3, color: C.accent3, margin: 0, isTextBox: true });
+      slide.addText(`${spec.label} =`, { x: x + 0.45, y: y + 0.95, w: pw - 0.9, h: 0.7, fontFace: "Cambria", fontSize: 30, bold: true, color: C.background1, margin: 0, isTextBox: true });
+      const fy = y + 2.35;
+      slide.addText(spec.top, { x: x + 0.45, y: fy, w: pw - 0.9, h: 0.75, fontSize: 24, color: C.background1, align: "center", valign: "bottom", margin: 0, isTextBox: true });
+      slide.addShape(pres.shapes.LINE, { x: x + 0.45, y: fy + 0.9, w: pw - 0.9, h: 0, line: { color: C.background1, width: 2 }, objectName: "Fraction bar" });
+      slide.addText(spec.bottom, { x: x + 0.45, y: fy + 1.05, w: pw - 0.9, h: 0.75, fontSize: 24, color: C.background1, align: "center", valign: "top", margin: 0, isTextBox: true });
+      rightRows(slide, pts, x + pw + 0.55, 1);
+    },
+    async twoByTwo(slide, pts) {
+      const tw = 5.6, x = M, y = TOP + 0.1;
+      const head = (t) => ({ text: t, options: { bold: true, color: C.background1, fill: { color: C.accent1 }, fontSize: 16, align: "center" } });
+      const rowHead = (t) => ({ text: t, options: { bold: true, color: C.text1, fill: { color: C.background2 }, fontSize: 16 } });
+      const cell = (t) => ({ text: t, options: { fontFace: "Cambria", italic: true, bold: true, color: C.accent1, fill: { color: C.background1 }, fontSize: 32, align: "center" } });
+      slide.addTable([
+        [head(""), head("Cases"), head("Controls")],
+        [rowHead("Exposed"), cell("a"), cell("b")],
+        [rowHead("Unexposed"), cell("c"), cell("d")],
+      ], { x, y, w: tw, colW: [1.9, 1.85, 1.85], rowH: [0.6, 1.05, 1.05], valign: "middle", margin: [0.05, 0.2, 0.05, 0.2], border: { type: "solid", pt: 1, color: THEME.colors.accent6 }, objectName: "Two-by-two table" });
+      const by = y + 2.7 + 0.35, bh = BOTTOM - by;
+      slide.addShape(pres.shapes.ROUNDED_RECTANGLE, { x, y: by, w: tw, h: bh, rectRadius: 0.15, fill: { color: C.accent1 }, line: { type: "none" }, shadow: shadow(), objectName: "Odds ratio formula" });
+      slide.addText([
+        { text: "ODDS RATIO", options: { fontSize: 12, bold: true, charSpacing: 3, color: C.accent3, breakLine: true } },
+        { text: "OR = (a × d) ÷ (b × c)", options: { fontFace: "Cambria", fontSize: 28, bold: true, color: C.background1 } },
+      ], { x: x + 0.45, y: by, w: tw - 0.9, h: bh, valign: "middle", margin: 0, isTextBox: true, paraSpaceBefore: 4 });
+      rightRows(slide, pts, x + tw + 0.55, 1);
+    },
+    async barChart(slide, pts, s, spec) {
+      const cw = 5.6, x = M, y = TOP + 0.1, h = BOTTOM - y;
+      slide.addShape(pres.shapes.ROUNDED_RECTANGLE, { x, y, w: cw, h, rectRadius: 0.15, fill: { color: C.background2 }, line: { type: "none" }, objectName: "Chart panel" });
+      slide.addChart(pres.charts.BAR, [{ name: spec.title, labels: spec.labels, values: spec.values }], {
+        x: x + 0.25, y: y + 0.2, w: cw - 0.5, h: h - 0.4, barDir: "col", barGapWidthPct: 70,
+        chartColors: [THEME.colors.accent1],
+        showTitle: true, title: spec.title, titleFontSize: 14, titleColor: THEME.colors.dk1, titleFontFace: "+mn-lt",
+        showValue: true, dataLabelPosition: "outEnd", dataLabelFontSize: 16, dataLabelColor: THEME.colors.dk1, dataLabelFontFace: "+mn-lt", dataLabelFormatCode: '0"%"',
+        catAxisLabelColor: THEME.colors.dk2, catAxisLabelFontSize: 14, catAxisLabelFontFace: "+mn-lt",
+        valAxisLabelColor: THEME.colors.dk2, valAxisLabelFontSize: 12, valAxisLabelFontFace: "+mn-lt",
+        valAxisMinVal: 0, valAxisMaxVal: 100, valAxisMajorUnit: 25, valAxisLabelFormatCode: '0"%"',
+        valGridLine: { color: THEME.colors.accent6, size: 0.75 }, catGridLine: { style: "none" },
+        showLegend: false, objectName: "Before-after chart",
+      });
+      rightRows(slide, pts, x + cw + 0.55, 1);
     },
     async flow(slide, pts) {
       const gap = 0.35, w = (CW - gap * (pts.length - 1)) / pts.length, d = 1.0, cy = TOP + 0.55, ph = 2.6;
@@ -290,7 +388,7 @@ async function buildDeck(deck) {
 
     if (s.n === 1) {
       const slide = pres.addSlide({ masterName: "Title", sectionTitle });
-      slide.addText(`QUALITATIVE RESEARCH METHODS  ·  TOPIC ${num} OF 12`, { placeholder: "kicker" });
+      slide.addText(`${CFG.label.toUpperCase()}  ·  TOPIC ${num} OF ${DECKS.length}`, { placeholder: "kicker" });
       slide.addText(s.title, { placeholder: "title" });
       slide.addText(s.points[0], { placeholder: "subtitle" });
       if (s.points[1]) slide.addText(s.points[1], { placeholder: "detail" });
@@ -355,8 +453,9 @@ async function buildDeck(deck) {
         slide.addText(runs, { x: M + 1.35, y, w: CW - 1.75, h, valign: "middle", margin: 0, isTextBox: true, paraSpaceAfter: 6 });
       }
     } else {
-      const layout = chooseLayout(s, prevLayout);
-      await L[layout](slide, s.points, s);
+      const special = CFG.specials[`${num}/${pad2(s.n)}`];
+      const layout = special ? special.layout : chooseLayout(s, prevLayout);
+      await L[layout](slide, s.points, s, special);
       prevLayout = layout;
     }
     slide.addNotes(notes(s));

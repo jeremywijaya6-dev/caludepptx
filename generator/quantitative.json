@@ -1,0 +1,2785 @@
+[
+ {
+  "sheet": "01 Case report",
+  "slides": [
+   {
+    "n": 1,
+    "title": "Case report",
+    "points": [
+     "Describe one clinically informative case and its lessons",
+     "Core concepts, study planning, analysis and interpretation"
+    ],
+    "visual": "Title slide with a simple design schematic"
+   },
+   {
+    "n": 2,
+    "title": "Learning objectives",
+    "points": [
+     "Explain the purpose and structure of the design",
+     "Plan sampling, measurement and appropriate analysis",
+     "Assess bias, interpretation, ethics and reporting"
+    ],
+    "visual": "Three learning objectives"
+   },
+   {
+    "n": 3,
+    "title": "Definition and purpose",
+    "points": [
+     "Describe an individual patient's presentation, management and outcome",
+     "Identify an unusual or educational observation",
+     "Recognize that the design is primarily descriptive and may combine narrative with numerical data"
+    ],
+    "visual": "Case timeline overview"
+   },
+   {
+    "n": 4,
+    "title": "Position among research designs",
+    "points": [
+     "Case reports are descriptive observational accounts",
+     "They can generate hypotheses or early safety signals",
+     "They do not estimate a comparative treatment effect"
+    ],
+    "visual": "Study-design comparison"
+   },
+   {
+    "n": 5,
+    "title": "When a case report is appropriate",
+    "points": [
+     "Consider unexpected presentations, diagnostic challenges or novel adverse events",
+     "Assess the educational contribution",
+     "Avoid novelty claims based only on personal experience"
+    ],
+    "visual": "Case-selection examples"
+   },
+   {
+    "n": 6,
+    "title": "Formulating the clinical question",
+    "points": [
+     "Identify what makes the case informative",
+     "State the diagnostic or management issue",
+     "Define the lesson without assuming causality"
+    ],
+    "visual": "Question-and-lesson card"
+   },
+   {
+    "n": 7,
+    "title": "Assessing novelty and relevance",
+    "points": [
+     "Search for similar published cases and established explanations",
+     "Identify the remaining knowledge gap",
+     "Distinguish a rare finding from a meaningful contribution"
+    ],
+    "visual": "Literature-gap table"
+   },
+   {
+    "n": 8,
+    "title": "Selecting and verifying the case",
+    "points": [
+     "Confirm diagnosis and essential clinical facts",
+     "Check original records and dates",
+     "Explain uncertainty where evidence is incomplete"
+    ],
+    "visual": "Verification checklist"
+   },
+   {
+    "n": 9,
+    "title": "Illustrative case scenario",
+    "points": [
+     "Hypothetical example: an unexpected ocular adverse event after treatment",
+     "Focus on presentation, differential diagnosis and course",
+     "Label the example as fictional teaching material"
+    ],
+    "visual": "Hypothetical case vignette"
+   },
+   {
+    "n": 10,
+    "title": "Patient information and context",
+    "points": [
+     "Record relevant demographic, medical and exposure history",
+     "Include only details needed to understand the case",
+     "Protect identifying information"
+    ],
+    "visual": "Patient profile template"
+   },
+   {
+    "n": 11,
+    "title": "Constructing the timeline",
+    "points": [
+     "Sequence symptoms, investigations, treatment and follow-up",
+     "Specify meaningful intervals",
+     "Make temporal relationships visible without treating sequence as proof of causality"
+    ],
+    "visual": "Clinical timeline"
+   },
+   {
+    "n": 12,
+    "title": "Clinical presentation",
+    "points": [
+     "Describe symptoms, signs and initial assessment",
+     "Include relevant negative findings",
+     "Separate patient reports from observed findings"
+    ],
+    "visual": "Presentation summary table"
+   },
+   {
+    "n": 13,
+    "title": "Diagnostic assessment",
+    "points": [
+     "Explain tests, diagnostic criteria and differential diagnoses",
+     "Discuss challenges and alternative explanations",
+     "Report the basis and uncertainty of the final diagnosis"
+    ],
+    "visual": "Differential-diagnosis matrix"
+   },
+   {
+    "n": 14,
+    "title": "Therapeutic intervention",
+    "points": [
+     "Specify treatment, dose, duration and modifications when relevant",
+     "Explain the clinical rationale",
+     "Describe co-interventions that may influence outcomes"
+    ],
+    "visual": "Treatment schedule"
+   },
+   {
+    "n": 15,
+    "title": "Follow-up and outcomes",
+    "points": [
+     "Report the clinical course and objective measurements",
+     "Specify follow-up duration and incomplete observations",
+     "Include patient-reported outcomes and adverse events when available"
+    ],
+    "visual": "Outcome timeline"
+   },
+   {
+    "n": 16,
+    "title": "Numerical data and images",
+    "points": [
+     "Use laboratory values, imaging or serial measurements with units",
+     "Provide clear labels and dates",
+     "Obtain appropriate permission for publication of images"
+    ],
+    "visual": "Annotated clinical image and measurement table"
+   },
+   {
+    "n": 17,
+    "title": "Patient perspective",
+    "points": [
+     "Include the patient's experience where appropriate and available",
+     "Distinguish perspective from investigator interpretation",
+     "Explain if this information could not be obtained"
+    ],
+    "visual": "Patient-perspective excerpt placeholder"
+   },
+   {
+    "n": 18,
+    "title": "Assessing a suspected adverse reaction",
+    "points": [
+     "Examine timing, biological plausibility and competing causes",
+     "Discuss dechallenge or rechallenge only if clinically appropriate and documented",
+     "Avoid inferring a population risk from one case"
+    ],
+    "visual": "Adverse-event reasoning matrix"
+   },
+   {
+    "n": 19,
+    "title": "Analysis and interpretation",
+    "points": [
+     "Use a structured descriptive account",
+     "Compare the case with relevant literature",
+     "Avoid p-values or inferential statistics unsupported by the design"
+    ],
+    "visual": "Case-to-literature comparison"
+   },
+   {
+    "n": 20,
+    "title": "Worked interpretation example",
+    "points": [
+     "Hypothetical event occurs after exposure and improves after withdrawal",
+     "Explain why this supports suspicion but does not prove the cause",
+     "Consider underlying disease and other treatments"
+    ],
+    "visual": "Timeline with alternative explanations"
+   },
+   {
+    "n": 21,
+    "title": "Bias and alternative explanations",
+    "points": [
+     "Consider selective reporting and retrospective reconstruction",
+     "Examine diagnostic uncertainty and confounding",
+     "Acknowledge that striking cases may be preferentially published"
+    ],
+    "visual": "Bias map"
+   },
+   {
+    "n": 22,
+    "title": "Consent and confidentiality",
+    "points": [
+     "Obtain publication consent as required by the journal and local rules",
+     "De-identify text and images responsibly",
+     "Recognize that unusual details can still reveal identity"
+    ],
+    "visual": "Publication-consent checklist"
+   },
+   {
+    "n": 23,
+    "title": "Reporting with CARE",
+    "points": [
+     "Use CARE to organize the report and check completeness",
+     "Present the timeline, diagnostic reasoning and follow-up transparently",
+     "Treat reporting guidance as distinct from evidence of validity"
+    ],
+    "visual": "CARE-informed report outline"
+   },
+   {
+    "n": 24,
+    "title": "Strengths, limitations and takeaways",
+    "points": [
+     "A case can reveal a signal or teach clinical reasoning",
+     "It cannot establish prevalence or comparative effectiveness",
+     "Discuss what a larger study should investigate next"
+    ],
+    "visual": "Three lessons and discussion prompt"
+   },
+   {
+    "n": 25,
+    "title": "References and further reading",
+    "points": [
+     "CARE Case Report Guidelines and checklist. https://www.care-statement.org/downloads",
+     "JBI Critical Appraisal Tools. https://jbi.global/critical-appraisal-tools"
+    ],
+    "visual": "Reference list with source links"
+   }
+  ]
+ },
+ {
+  "sheet": "02 Case series",
+  "slides": [
+   {
+    "n": 1,
+    "title": "Case series",
+    "points": [
+     "Describe a group of cases with consistent selection and outcome reporting",
+     "Core concepts, study planning, analysis and interpretation"
+    ],
+    "visual": "Title slide with a simple design schematic"
+   },
+   {
+    "n": 2,
+    "title": "Learning objectives",
+    "points": [
+     "Explain the purpose and structure of the design",
+     "Plan sampling, measurement and appropriate analysis",
+     "Assess bias, interpretation, ethics and reporting"
+    ],
+    "visual": "Three learning objectives"
+   },
+   {
+    "n": 3,
+    "title": "Definition and purpose",
+    "points": [
+     "Describe several patients sharing a condition or clinical feature",
+     "Summarize presentations, management and outcomes",
+     "Usually provide descriptive evidence without a concurrent comparator"
+    ],
+    "visual": "Group-of-cases diagram"
+   },
+   {
+    "n": 4,
+    "title": "Case series versus neighboring designs",
+    "points": [
+     "A case report focuses on one patient",
+     "A series describes a group with common features",
+     "Exposure-defined follow-up with risk estimation may be better classified as a cohort"
+    ],
+    "visual": "Design classification table"
+   },
+   {
+    "n": 5,
+    "title": "When a case series fits",
+    "points": [
+     "Use for rare presentations, early experience or safety signals",
+     "Assess whether a defined group can answer a descriptive question",
+     "Choose a comparative design for treatment-effect estimation"
+    ],
+    "visual": "Design-fit examples"
+   },
+   {
+    "n": 6,
+    "title": "Formulating the objective",
+    "points": [
+     "Specify the condition, setting and descriptive outcome",
+     "Define the period covered",
+     "Avoid wording that assumes an intervention caused the findings"
+    ],
+    "visual": "Objective-development example"
+   },
+   {
+    "n": 7,
+    "title": "Prospective and retrospective collection",
+    "points": [
+     "Prospective collection plans observations before follow-up",
+     "Retrospective collection uses existing records",
+     "Both require explicit selection and measurement procedures"
+    ],
+    "visual": "Collection-direction comparison"
+   },
+   {
+    "n": 8,
+    "title": "Defining eligible cases",
+    "points": [
+     "Use consistent diagnostic and inclusion criteria",
+     "State exclusions and why they matter",
+     "Decide whether the unit is a patient, eye, procedure or episode"
+    ],
+    "visual": "Eligibility and unit table"
+   },
+   {
+    "n": 9,
+    "title": "Consecutive and complete inclusion",
+    "points": [
+     "Seek consecutive or complete eligible cases when feasible",
+     "Explain how cases were identified",
+     "Report omissions and reasons for exclusion"
+    ],
+    "visual": "Case-identification flowchart"
+   },
+   {
+    "n": 10,
+    "title": "Illustrative research scenario",
+    "points": [
+     "Hypothetical example: unusual optic nerve findings at one referral center",
+     "Describe all eligible cases over a defined period",
+     "Avoid presenting the center's experience as a population frequency"
+    ],
+    "visual": "Series profile card"
+   },
+   {
+    "n": 11,
+    "title": "Setting and referral pathways",
+    "points": [
+     "Describe service level, catchment and referral patterns",
+     "Explain why severe or unusual cases may be overrepresented",
+     "Record changes in case ascertainment over time"
+    ],
+    "visual": "Referral pathway map"
+   },
+   {
+    "n": 12,
+    "title": "Sample size and scope",
+    "points": [
+     "Justify the available or planned series relative to its objective",
+     "Small series yield imprecise summaries",
+     "Avoid applying a universal minimum case count"
+    ],
+    "visual": "Scope-and-precision illustration"
+   },
+   {
+    "n": 13,
+    "title": "Standardizing data extraction",
+    "points": [
+     "Use a predefined form and variable definitions",
+     "Verify key fields against source records",
+     "Resolve ambiguous or inconsistent documentation"
+    ],
+    "visual": "Data extraction template"
+   },
+   {
+    "n": 14,
+    "title": "Baseline characteristics",
+    "points": [
+     "Describe age, clinical features and relevant comorbidities",
+     "Report distributions appropriate to the sample",
+     "Keep denominators visible for every summary"
+    ],
+    "visual": "Baseline table example"
+   },
+   {
+    "n": 15,
+    "title": "Clinical presentation and diagnosis",
+    "points": [
+     "Summarize common and differing presentations",
+     "Explain diagnostic criteria and verification",
+     "Report uncertain diagnoses separately"
+    ],
+    "visual": "Clinical feature matrix"
+   },
+   {
+    "n": 16,
+    "title": "Management and co-interventions",
+    "points": [
+     "Describe treatments and why patients received them",
+     "Record variations in management",
+     "Recognize confounding by indication if outcomes are compared"
+    ],
+    "visual": "Treatment summary table"
+   },
+   {
+    "n": 17,
+    "title": "Outcomes and follow-up",
+    "points": [
+     "Define outcomes and assessment windows",
+     "Report follow-up completeness and variation",
+     "Distinguish patients with no event from patients with unknown status"
+    ],
+    "visual": "Follow-up matrix"
+   },
+   {
+    "n": 18,
+    "title": "Descriptive statistical analysis",
+    "points": [
+     "Use counts, proportions and suitable summaries of continuous data",
+     "State the denominator for each measure",
+     "Avoid unsupported comparative or causal inference"
+    ],
+    "visual": "Summary statistics examples"
+   },
+   {
+    "n": 19,
+    "title": "Missing data and exclusions",
+    "points": [
+     "Report missingness for key variables",
+     "Explain complete-case summaries and their limits",
+     "Consider how incomplete records affect the descriptive account"
+    ],
+    "visual": "Missing-data table"
+   },
+   {
+    "n": 20,
+    "title": "Worked descriptive example",
+    "points": [
+     "Hypothetical series includes 12 cases with documented outcomes in 10",
+     "If 3 improved, report 3 of 10 among those assessed",
+     "Do not silently treat the 2 unknown outcomes as failures or successes"
+    ],
+    "visual": "Denominator demonstration"
+   },
+   {
+    "n": 21,
+    "title": "Selection and information bias",
+    "points": [
+     "Consider preferential inclusion of severe or successful cases",
+     "Examine inconsistent measurement and retrospective coding",
+     "Explain how consecutive selection reduces some selection concerns"
+    ],
+    "visual": "Bias matrix"
+   },
+   {
+    "n": 22,
+    "title": "Interpreting proportions and comparisons",
+    "points": [
+     "A proportion within the series describes that selected group",
+     "It is not a population incidence estimate without an appropriate population denominator",
+     "Exploratory subgroup differences require cautious interpretation"
+    ],
+    "visual": "Series-versus-population comparison"
+   },
+   {
+    "n": 23,
+    "title": "Ethics and critical appraisal",
+    "points": [
+     "Protect confidentiality across potentially identifiable cases",
+     "Follow applicable approvals and publication consent requirements",
+     "Use JBI appraisal questions to examine selection and reporting"
+    ],
+    "visual": "Appraisal and ethics checklist"
+   },
+   {
+    "n": 24,
+    "title": "Reporting, strengths and takeaways",
+    "points": [
+     "Report eligibility, case flow, clinical details and follow-up clearly",
+     "Use the series to identify patterns and hypotheses",
+     "Discuss what a comparator or larger dataset would add"
+    ],
+    "visual": "Case-series report outline"
+   },
+   {
+    "n": 25,
+    "title": "References and further reading",
+    "points": [
+     "JBI Critical Appraisal Checklist for Case Series. https://jbi.global/sites/default/files/2020-07/Checklist_for_Case_Series_0.pdf",
+     "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies in the Field. https://www.cdc.gov/field-epi-manual/php/chapters/design-conduct-analyze-field-studies.html"
+    ],
+    "visual": "Reference list with source links"
+   }
+  ]
+ },
+ {
+  "sheet": "03 Ecological study",
+  "slides": [
+   {
+    "n": 1,
+    "title": "Ecological study",
+    "points": [
+     "Examine exposure and outcome patterns at the group level",
+     "Core concepts, study planning, analysis and interpretation"
+    ],
+    "visual": "Title slide with a simple design schematic"
+   },
+   {
+    "n": 2,
+    "title": "Learning objectives",
+    "points": [
+     "Explain the purpose and structure of the design",
+     "Plan sampling, measurement and appropriate analysis",
+     "Assess bias, interpretation, ethics and reporting"
+    ],
+    "visual": "Three learning objectives"
+   },
+   {
+    "n": 3,
+    "title": "Definition and unit of analysis",
+    "points": [
+     "Analyze groups such as regions, institutions or time periods",
+     "Use aggregate exposure and outcome measures",
+     "Keep group-level and individual-level questions distinct"
+    ],
+    "visual": "Individual-versus-group diagram"
+   },
+   {
+    "n": 4,
+    "title": "Purpose and design scope",
+    "points": [
+     "Describe population patterns or investigate group-level associations",
+     "Study policies or contextual exposures",
+     "Match conclusions to the level of the data"
+    ],
+    "visual": "Group-level question examples"
+   },
+   {
+    "n": 5,
+    "title": "Forms of ecological study",
+    "points": [
+     "Compare multiple groups at one time or one group across time",
+     "Consider panel data with groups observed repeatedly",
+     "Distinguish observational comparisons from intervention-focused time-series designs"
+    ],
+    "visual": "Ecological design matrix"
+   },
+   {
+    "n": 6,
+    "title": "When an ecological design fits",
+    "points": [
+     "Use when the exposure operates at group level or only aggregate data exist",
+     "Assess data comparability across units",
+     "Avoid using aggregate data to answer an individual question without justification"
+    ],
+    "visual": "Design-fit decision tree"
+   },
+   {
+    "n": 7,
+    "title": "Formulating the research question",
+    "points": [
+     "Specify the population units, exposure and outcome",
+     "Define the period and association of interest",
+     "State whether the aim is contextual or hypothesis-generating"
+    ],
+    "visual": "Question-development example"
+   },
+   {
+    "n": 8,
+    "title": "Illustrative research problem",
+    "points": [
+     "Hypothetical example: regional deprivation and rates of late glaucoma diagnosis",
+     "Compare regions using consistent definitions",
+     "Interpret the association at regional level"
+    ],
+    "visual": "Regional question card"
+   },
+   {
+    "n": 9,
+    "title": "Selecting groups and boundaries",
+    "points": [
+     "Define geographic or organizational units consistently",
+     "Explain exclusions and changes in boundaries",
+     "Recognize that results can depend on the aggregation scale"
+    ],
+    "visual": "Boundary and aggregation example"
+   },
+   {
+    "n": 10,
+    "title": "Exposure measurement",
+    "points": [
+     "Define group means, proportions or policy indicators",
+     "Assess whether the measure captures the intended exposure",
+     "Consider exposure timing and relevant lag periods"
+    ],
+    "visual": "Exposure definition table"
+   },
+   {
+    "n": 11,
+    "title": "Outcome measurement and denominators",
+    "points": [
+     "Use counts, rates or standardized measures suited to the question",
+     "Verify population denominators and case definitions",
+     "Distinguish prevalence, incidence and service-use outcomes"
+    ],
+    "visual": "Outcome-and-denominator matrix"
+   },
+   {
+    "n": 12,
+    "title": "Data sources and linkage",
+    "points": [
+     "Combine compatible registries, census data or administrative sources",
+     "Align time periods and geographic identifiers",
+     "Document mismatches and source limitations"
+    ],
+    "visual": "Aggregate data-linkage workflow"
+   },
+   {
+    "n": 13,
+    "title": "Comparability and standardization",
+    "points": [
+     "Consider age structure, case detection and measurement differences",
+     "Use standardization where appropriate to the estimand",
+     "Avoid comparing crude rates as if populations were identical"
+    ],
+    "visual": "Crude-versus-standardized comparison"
+   },
+   {
+    "n": 14,
+    "title": "Descriptive analysis",
+    "points": [
+     "Summarize group distributions and inspect extreme units",
+     "Plot maps or scatterplots with clear scales",
+     "Check whether a few groups dominate the pattern"
+    ],
+    "visual": "Map and scatterplot plan"
+   },
+   {
+    "n": 15,
+    "title": "Correlation and regression",
+    "points": [
+     "Use methods suited to continuous outcomes, counts or rates",
+     "Distinguish correlation from a causal effect",
+     "Specify model assumptions and uncertainty"
+    ],
+    "visual": "Analysis-selection table"
+   },
+   {
+    "n": 16,
+    "title": "Weighting and group size",
+    "points": [
+     "Explain whether groups contribute equally or by population size",
+     "Recognize that weighting changes the estimand",
+     "Address unstable rates from small populations"
+    ],
+    "visual": "Small-versus-large group example"
+   },
+   {
+    "n": 17,
+    "title": "Confounding at the group level",
+    "points": [
+     "Consider socioeconomic conditions, healthcare access and demographic composition",
+     "Select adjustments using a causal rationale",
+     "Recognize remaining individual and contextual confounding"
+    ],
+    "visual": "Group-level causal diagram"
+   },
+   {
+    "n": 18,
+    "title": "Ecological fallacy",
+    "points": [
+     "An association between groups need not describe associations within individuals",
+     "Illustrate how aggregation can obscure individual relationships",
+     "Do not interpret regional deprivation as each patient's exposure"
+    ],
+    "visual": "Aggregation paradox illustration"
+   },
+   {
+    "n": 19,
+    "title": "Spatial and temporal dependence",
+    "points": [
+     "Nearby regions and repeated measurements may be correlated",
+     "Use appropriate models or uncertainty estimates",
+     "Consider spillover and time-varying contextual factors"
+    ],
+    "visual": "Spatial-neighbor and panel diagram"
+   },
+   {
+    "n": 20,
+    "title": "Sensitivity analyses",
+    "points": [
+     "Test alternative group definitions, lags and influential-unit exclusions",
+     "Examine measurement choices and missing units",
+     "Keep analyses tied to the question rather than searching for significance"
+    ],
+    "visual": "Sensitivity analysis plan"
+   },
+   {
+    "n": 21,
+    "title": "Worked interpretation example",
+    "points": [
+     "Hypothetical scatterplot shows higher late-diagnosis rates in more deprived regions",
+     "Discuss group-level access and case-detection explanations",
+     "Identify individual data needed to investigate patient-level mechanisms"
+    ],
+    "visual": "Annotated hypothetical scatterplot"
+   },
+   {
+    "n": 22,
+    "title": "Ethics and data limitations",
+    "points": [
+     "Public aggregate data may still carry disclosure risks in small cells",
+     "Follow data-use and local review requirements",
+     "Explain underreporting and mismatched source periods"
+    ],
+    "visual": "Data-risk and limitation table"
+   },
+   {
+    "n": 23,
+    "title": "Reporting and critical appraisal",
+    "points": [
+     "State the ecological unit, sources, dates and analysis clearly",
+     "Report uncertainty and group-level confounding",
+     "Make the inference level explicit in the conclusion"
+    ],
+    "visual": "Reporting checklist"
+   },
+   {
+    "n": 24,
+    "title": "Strengths, limitations and takeaways",
+    "points": [
+     "Useful for contextual questions and population surveillance",
+     "Group-level findings require group-level interpretation",
+     "Discuss when multilevel or individual-level follow-up is needed"
+    ],
+    "visual": "Three takeaways and discussion prompt"
+   },
+   {
+    "n": 25,
+    "title": "References and further reading",
+    "points": [
+     "Ecological studies: use with caution. Primary methodological article. https://pmc.ncbi.nlm.nih.gov/articles/PMC3905433/",
+     "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies in the Field. https://www.cdc.gov/field-epi-manual/php/chapters/design-conduct-analyze-field-studies.html"
+    ],
+    "visual": "Reference list with source links"
+   }
+  ]
+ },
+ {
+  "sheet": "04 Cross-sectional study",
+  "slides": [
+   {
+    "n": 1,
+    "title": "Cross-sectional study",
+    "points": [
+     "Measure prevalence or associations in a population at a defined time",
+     "Core concepts, study planning, analysis and interpretation"
+    ],
+    "visual": "Title slide with a simple design schematic"
+   },
+   {
+    "n": 2,
+    "title": "Learning objectives",
+    "points": [
+     "Explain the purpose and structure of the design",
+     "Plan sampling, measurement and appropriate analysis",
+     "Assess bias, interpretation, ethics and reporting"
+    ],
+    "visual": "Three learning objectives"
+   },
+   {
+    "n": 3,
+    "title": "Definition and purpose",
+    "points": [
+     "Measure variables within a defined time window",
+     "Estimate prevalence or examine concurrent associations",
+     "Recognize that exposure-outcome timing may be unclear"
+    ],
+    "visual": "Population snapshot diagram"
+   },
+   {
+    "n": 4,
+    "title": "Descriptive and analytical questions",
+    "points": [
+     "Descriptive studies estimate characteristics or burden",
+     "Analytical studies compare exposures and outcomes",
+     "State the primary aim before choosing sampling and analysis"
+    ],
+    "visual": "Aim comparison table"
+   },
+   {
+    "n": 5,
+    "title": "When the design fits",
+    "points": [
+     "Use for burden, service needs or concurrent risk-factor patterns",
+     "Plan a coherent observation window",
+     "Choose longitudinal designs when change or incidence is central"
+    ],
+    "visual": "Design-fit examples"
+   },
+   {
+    "n": 6,
+    "title": "Formulating the research question",
+    "points": [
+     "Specify the population, exposure, outcome and time window",
+     "Distinguish a prevalence objective from an association objective",
+     "Avoid assuming the exposure preceded the outcome"
+    ],
+    "visual": "Question-development example"
+   },
+   {
+    "n": 7,
+    "title": "Illustrative research problem",
+    "points": [
+     "Hypothetical example: prevalence of unrecognized glaucoma in a defined adult population",
+     "Alternatively examine its association with healthcare access",
+     "Keep the estimation and association questions distinct"
+    ],
+    "visual": "Study question card"
+   },
+   {
+    "n": 8,
+    "title": "Target and source populations",
+    "points": [
+     "Define whom results are intended to describe",
+     "Identify the accessible sampling frame",
+     "Explain exclusions and coverage gaps"
+    ],
+    "visual": "Target-to-sample population diagram"
+   },
+   {
+    "n": 9,
+    "title": "Sampling strategies",
+    "points": [
+     "Compare probability, stratified, cluster and convenience sampling",
+     "Align selection with the inference goal",
+     "Describe how sampling affects representativeness"
+    ],
+    "visual": "Sampling strategy matrix"
+   },
+   {
+    "n": 10,
+    "title": "Eligibility and recruitment",
+    "points": [
+     "Set criteria before selection",
+     "Record invitations, eligibility and participation",
+     "Prevent recruitment procedures from favoring particular outcomes"
+    ],
+    "visual": "Participant flowchart"
+   },
+   {
+    "n": 11,
+    "title": "Sample size for prevalence",
+    "points": [
+     "Use expected prevalence, desired precision and confidence level",
+     "Account for design effects and nonresponse where relevant",
+     "State the assumptions rather than using a universal sample rule"
+    ],
+    "visual": "Precision planning diagram"
+   },
+   {
+    "n": 12,
+    "title": "Sample size for associations",
+    "points": [
+     "Base planning on the primary comparison or model",
+     "Consider outcome frequency, exposure distribution and confounders",
+     "Distinguish available sample size from adequate information"
+    ],
+    "visual": "Association planning table"
+   },
+   {
+    "n": 13,
+    "title": "Defining exposure and outcome",
+    "points": [
+     "Use validated criteria and consistent measurement windows",
+     "Separate current status from recalled past exposure",
+     "Specify handling of ambiguous classifications"
+    ],
+    "visual": "Variable definition table"
+   },
+   {
+    "n": 14,
+    "title": "Data collection and quality control",
+    "points": [
+     "Standardize questionnaires, examinations or record extraction",
+     "Train assessors and calibrate measurements",
+     "Use identical procedures across participant groups"
+    ],
+    "visual": "Measurement workflow"
+   },
+   {
+    "n": 15,
+    "title": "Prevalence calculation",
+    "points": [
+     "Divide existing cases by the eligible population assessed",
+     "Report the observation window and denominator",
+     "Recognize that prevalence reflects disease duration as well as occurrence"
+    ],
+    "visual": "Prevalence formula example"
+   },
+   {
+    "n": 16,
+    "title": "Descriptive statistics",
+    "points": [
+     "Summarize demographic and clinical characteristics",
+     "Use suitable continuous-data summaries and confidence intervals",
+     "Describe subgroup denominators transparently"
+    ],
+    "visual": "Descriptive results table"
+   },
+   {
+    "n": 17,
+    "title": "Measures of association",
+    "points": [
+     "Consider prevalence ratios, prevalence differences and prevalence odds ratios",
+     "Choose an estimand before the model",
+     "Do not automatically interpret an odds ratio as a prevalence ratio"
+    ],
+    "visual": "Measure comparison table"
+   },
+   {
+    "n": 18,
+    "title": "Regression analysis",
+    "points": [
+     "Use models appropriate to the outcome and selected estimand",
+     "Consider modified Poisson or log-binomial models for prevalence ratios",
+     "Explain logistic regression estimates prevalence odds ratios"
+    ],
+    "visual": "Outcome-to-model mapping"
+   },
+   {
+    "n": 19,
+    "title": "Complex survey analysis",
+    "points": [
+     "Use weights, strata and cluster information when required",
+     "Account for the sample design in uncertainty estimates",
+     "Distinguish weighted population estimates from raw sample summaries"
+    ],
+    "visual": "Survey design diagram"
+   },
+   {
+    "n": 20,
+    "title": "Confounding and effect modification",
+    "points": [
+     "Choose adjustments using substantive causal knowledge",
+     "Examine meaningful differences across subgroups",
+     "Avoid indiscriminate adjustment for mediators or colliders"
+    ],
+    "visual": "Confounder-versus-modifier illustration"
+   },
+   {
+    "n": 21,
+    "title": "Selection and nonresponse bias",
+    "points": [
+     "Assess coverage gaps and participation patterns",
+     "Describe who may be missing from the sample",
+     "Weighting cannot fully correct all unobserved differences"
+    ],
+    "visual": "Nonresponse bias map"
+   },
+   {
+    "n": 22,
+    "title": "Temporality and reverse causation",
+    "points": [
+     "Concurrent measurement often cannot establish event order",
+     "Disease may alter the measured exposure",
+     "Make causal limits explicit even with adjusted regression"
+    ],
+    "visual": "Exposure-outcome timing diagram"
+   },
+   {
+    "n": 23,
+    "title": "Worked example and missing data",
+    "points": [
+     "Hypothetical sample has 40 cases among 1,000 participants: prevalence is 4%",
+     "Report unavailable examinations separately rather than classifying them as disease-free",
+     "Examine sensitivity to nonresponse and missingness"
+    ],
+    "visual": "Numerator-denominator demonstration"
+   },
+   {
+    "n": 24,
+    "title": "Reporting, strengths and takeaways",
+    "points": [
+     "Use the cross-sectional STROBE checklist for reporting",
+     "Report prevalence or associations with uncertainty and design limits",
+     "Discuss whether longitudinal work is needed to test a temporal hypothesis"
+    ],
+    "visual": "STROBE-informed report outline"
+   },
+   {
+    "n": 25,
+    "title": "References and further reading",
+    "points": [
+     "STROBE Statement: reporting observational research. https://www.strobe-statement.org/",
+     "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies in the Field. https://www.cdc.gov/field-epi-manual/php/chapters/design-conduct-analyze-field-studies.html"
+    ],
+    "visual": "Reference list with source links"
+   }
+  ]
+ },
+ {
+  "sheet": "05 Case-control study",
+  "slides": [
+   {
+    "n": 1,
+    "title": "Case-control study",
+    "points": [
+     "Compare prior exposures among cases and controls drawn from a source population",
+     "Core concepts, study planning, analysis and interpretation"
+    ],
+    "visual": "Title slide with a simple design schematic"
+   },
+   {
+    "n": 2,
+    "title": "Learning objectives",
+    "points": [
+     "Explain the purpose and structure of the design",
+     "Plan sampling, measurement and appropriate analysis",
+     "Assess bias, interpretation, ethics and reporting"
+    ],
+    "visual": "Three learning objectives"
+   },
+   {
+    "n": 3,
+    "title": "Definition and sampling logic",
+    "points": [
+     "Select participants according to outcome status",
+     "Compare exposure histories in cases and controls",
+     "Understand controls as representing the exposure distribution in the population giving rise to cases"
+    ],
+    "visual": "Case-control sampling diagram"
+   },
+   {
+    "n": 4,
+    "title": "When the design fits",
+    "points": [
+     "Use for rare outcomes or outcomes with long induction periods",
+     "Study several candidate exposures efficiently",
+     "Avoid selecting this design solely because data are retrospective"
+    ],
+    "visual": "Design-fit comparison"
+   },
+   {
+    "n": 5,
+    "title": "Formulating the question",
+    "points": [
+     "Specify the disease, exposure and source population",
+     "Define the relevant exposure window",
+     "Ask about the association without assuming causality"
+    ],
+    "visual": "Question-development example"
+   },
+   {
+    "n": 6,
+    "title": "Illustrative research problem",
+    "points": [
+     "Hypothetical example: obesity history and meningioma diagnosis",
+     "Define cases and eligible source-population controls",
+     "Assess whether exposure data precede the outcome"
+    ],
+    "visual": "Study question card"
+   },
+   {
+    "n": 7,
+    "title": "Source population and time at risk",
+    "points": [
+     "Define the population and period that generated the cases",
+     "Controls must have been eligible to become cases",
+     "Ensure comparable opportunities for exposure ascertainment"
+    ],
+    "visual": "Source-population diagram"
+   },
+   {
+    "n": 8,
+    "title": "Case definition and ascertainment",
+    "points": [
+     "Use consistent and valid diagnostic criteria",
+     "Consider incident versus prevalent cases",
+     "Describe all case-finding routes and exclusions"
+    ],
+    "visual": "Case ascertainment flowchart"
+   },
+   {
+    "n": 9,
+    "title": "Selecting controls",
+    "points": [
+     "Choose controls independently of the exposure under study",
+     "Match their eligibility to the source population",
+     "Avoid convenient controls with different referral or disease pathways"
+    ],
+    "visual": "Good-versus-poor control examples"
+   },
+   {
+    "n": 10,
+    "title": "Control sampling schemes",
+    "points": [
+     "Compare cumulative, case-cohort and incidence-density sampling",
+     "Explain that interpretation depends on how controls are sampled",
+     "Avoid treating all case-control odds ratios as identical estimands"
+    ],
+    "visual": "Control-sampling timeline"
+   },
+   {
+    "n": 11,
+    "title": "Number of controls and sample planning",
+    "points": [
+     "Plan around exposure frequency, expected association and precision",
+     "Additional controls may improve efficiency with diminishing gains",
+     "Account for matching and available cases"
+    ],
+    "visual": "Sample planning table"
+   },
+   {
+    "n": 12,
+    "title": "Matching strategies",
+    "points": [
+     "Use individual or frequency matching only with a clear rationale",
+     "Choose variables carefully to avoid overmatching",
+     "Explain that matching requires appropriate analysis"
+    ],
+    "visual": "Matching example"
+   },
+   {
+    "n": 13,
+    "title": "Exposure ascertainment",
+    "points": [
+     "Use validated records, measurements or interviews",
+     "Apply comparable procedures for cases and controls",
+     "Choose exposure windows that reduce reverse-causation concerns"
+    ],
+    "visual": "Exposure measurement timeline"
+   },
+   {
+    "n": 14,
+    "title": "Data quality and blinding",
+    "points": [
+     "Use standardized instruments and extraction rules",
+     "Blind exposure assessors to case status where feasible",
+     "Verify uncertain classifications systematically"
+    ],
+    "visual": "Data-quality workflow"
+   },
+   {
+    "n": 15,
+    "title": "The 2-by-2 table",
+    "points": [
+     "Define exposed and unexposed participants among cases and controls",
+     "Label cells and totals consistently",
+     "Understand that the sampled case fraction is set by design"
+    ],
+    "visual": "Labeled 2-by-2 table"
+   },
+   {
+    "n": 16,
+    "title": "Calculating the odds ratio",
+    "points": [
+     "With exposed cases a, exposed controls b, unexposed cases c and unexposed controls d, OR is ad divided by bc",
+     "Report uncertainty with the estimate",
+     "State the exposure comparison clearly"
+    ],
+    "visual": "Odds ratio calculation layout"
+   },
+   {
+    "n": 17,
+    "title": "Interpreting the odds ratio",
+    "points": [
+     "For cumulative sampling, the OR approximates a risk ratio when the outcome is rare in the source population",
+     "Incidence-density sampling can estimate a rate ratio without a rare-outcome assumption",
+     "Do not estimate absolute risk from the case fraction"
+    ],
+    "visual": "Sampling-specific interpretation table"
+   },
+   {
+    "n": 18,
+    "title": "Regression and matched analysis",
+    "points": [
+     "Use logistic regression for appropriate unmatched analyses",
+     "Consider conditional logistic regression for individually matched sets",
+     "Include the matching structure in the analytic plan"
+    ],
+    "visual": "Analysis-selection matrix"
+   },
+   {
+    "n": 19,
+    "title": "Confounding and effect modification",
+    "points": [
+     "Select covariates using a causal rationale",
+     "Compare crude and adjusted estimates appropriately",
+     "Assess clinically meaningful subgroup differences without data dredging"
+    ],
+    "visual": "Confounding diagram"
+   },
+   {
+    "n": 20,
+    "title": "Selection bias",
+    "points": [
+     "Examine referral patterns, survival and control participation",
+     "Hospital controls may have exposure-related conditions",
+     "Explain how selection can distort the exposure contrast"
+    ],
+    "visual": "Selection pathway diagram"
+   },
+   {
+    "n": 21,
+    "title": "Recall and information bias",
+    "points": [
+     "Cases may remember past exposures differently from controls",
+     "Records may be incomplete or measured differently",
+     "Prefer comparable objective information when feasible"
+    ],
+    "visual": "Measurement bias comparison"
+   },
+   {
+    "n": 22,
+    "title": "Worked example",
+    "points": [
+     "Hypothetical counts are a=40, b=20, c=60 and d=80",
+     "OR equals 2.67 after rounding",
+     "Interpret the result under the stated sampling scheme and avoid claiming a causal effect"
+    ],
+    "visual": "Worked 2-by-2 table"
+   },
+   {
+    "n": 23,
+    "title": "Sensitivity analyses and ethics",
+    "points": [
+     "Examine exposure definitions, control sources and missingness",
+     "Consider reverse-causation and residual-confounding scenarios",
+     "Protect sensitive health records and follow required review procedures"
+    ],
+    "visual": "Sensitivity and ethics plan"
+   },
+   {
+    "n": 24,
+    "title": "Reporting, strengths and takeaways",
+    "points": [
+     "Use the case-control STROBE checklist",
+     "Explain case selection, control sampling, matching and exposure timing",
+     "Discuss why a valid source population matters more than simply increasing control count"
+    ],
+    "visual": "STROBE-informed report outline"
+   },
+   {
+    "n": 25,
+    "title": "References and further reading",
+    "points": [
+     "STROBE Statement: reporting observational research. https://www.strobe-statement.org/",
+     "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies in the Field. https://www.cdc.gov/field-epi-manual/php/chapters/design-conduct-analyze-field-studies.html"
+    ],
+    "visual": "Reference list with source links"
+   }
+  ]
+ },
+ {
+  "sheet": "06 Cohort study",
+  "slides": [
+   {
+    "n": 1,
+    "title": "Cohort study",
+    "points": [
+     "Follow an outcome-free or otherwise defined population over time to compare outcomes",
+     "Core concepts, study planning, analysis and interpretation"
+    ],
+    "visual": "Title slide with a simple design schematic"
+   },
+   {
+    "n": 2,
+    "title": "Learning objectives",
+    "points": [
+     "Explain the purpose and structure of the design",
+     "Plan sampling, measurement and appropriate analysis",
+     "Assess bias, interpretation, ethics and reporting"
+    ],
+    "visual": "Three learning objectives"
+   },
+   {
+    "n": 3,
+    "title": "Definition and temporal structure",
+    "points": [
+     "Define a population before the outcome assessment period",
+     "Classify exposures and follow subsequent outcomes",
+     "Align eligibility, exposure assignment and follow-up start"
+    ],
+    "visual": "Cohort timeline"
+   },
+   {
+    "n": 4,
+    "title": "Prospective and retrospective cohorts",
+    "points": [
+     "Prospective studies collect future outcomes",
+     "Retrospective cohorts reconstruct follow-up from existing records",
+     "Both require a coherent time origin and temporal order"
+    ],
+    "visual": "Prospective-versus-retrospective timeline"
+   },
+   {
+    "n": 5,
+    "title": "When the design fits",
+    "points": [
+     "Use for incidence, prognosis and multiple outcomes",
+     "Consider feasibility of follow-up and outcome frequency",
+     "Recognize resource demands and inefficiency for very rare outcomes"
+    ],
+    "visual": "Design-fit comparison"
+   },
+   {
+    "n": 6,
+    "title": "Formulating the question",
+    "points": [
+     "Specify population, exposure or treatment, comparator and outcome",
+     "Define the follow-up horizon",
+     "State whether the aim is descriptive, prognostic or causal"
+    ],
+    "visual": "Question-development example"
+   },
+   {
+    "n": 7,
+    "title": "Illustrative research problem",
+    "points": [
+     "Hypothetical example: baseline obesity and later meningioma diagnosis",
+     "Define an eligible population without the outcome at entry",
+     "Assess detection differences and plausible confounders"
+    ],
+    "visual": "Study question card"
+   },
+   {
+    "n": 8,
+    "title": "Defining the cohort and time zero",
+    "points": [
+     "Apply eligibility criteria at a consistent index date",
+     "Establish baseline outcome status",
+     "Avoid using future information to define exposure or entry"
+    ],
+    "visual": "Eligibility and index-date diagram"
+   },
+   {
+    "n": 9,
+    "title": "Selecting the comparison group",
+    "points": [
+     "Use a comparator from a compatible population and period",
+     "Check exposure overlap and baseline differences",
+     "Define reference categories precisely"
+    ],
+    "visual": "Comparator-selection matrix"
+   },
+   {
+    "n": 10,
+    "title": "Exposure measurement",
+    "points": [
+     "Specify baseline, repeated or time-varying exposure",
+     "Use valid measurements and meaningful categories",
+     "Consider changes in exposure during follow-up"
+    ],
+    "visual": "Exposure trajectory examples"
+   },
+   {
+    "n": 11,
+    "title": "Outcome definition and ascertainment",
+    "points": [
+     "Use consistent criteria and ascertainment across groups",
+     "Distinguish incident outcomes from historical codes",
+     "Consider validation and competing events"
+    ],
+    "visual": "Outcome verification workflow"
+   },
+   {
+    "n": 12,
+    "title": "Follow-up and censoring",
+    "points": [
+     "Define the end of follow-up and censoring rules",
+     "Record loss to follow-up and reasons where available",
+     "Recognize bias if censoring depends on outcome risk"
+    ],
+    "visual": "Follow-up timeline"
+   },
+   {
+    "n": 13,
+    "title": "Sample size and event planning",
+    "points": [
+     "Base planning on the primary estimand and expected event frequency",
+     "Account for follow-up duration and attrition",
+     "A large cohort may still contain few informative events"
+    ],
+    "visual": "Event-based planning diagram"
+   },
+   {
+    "n": 14,
+    "title": "Risk and cumulative incidence",
+    "points": [
+     "Estimate the probability of an outcome over a defined period",
+     "Keep numerator, denominator and follow-up horizon aligned",
+     "Consider censoring and competing risks where relevant"
+    ],
+    "visual": "Risk estimation example"
+   },
+   {
+    "n": 15,
+    "title": "Person-time and incidence rates",
+    "points": [
+     "Sum time contributed while participants remain at risk",
+     "Divide events by person-time for an incidence rate",
+     "Distinguish a rate from a probability"
+    ],
+    "visual": "Person-time calculation layout"
+   },
+   {
+    "n": 16,
+    "title": "Comparative measures",
+    "points": [
+     "Compare risk ratios, risk differences and rate ratios",
+     "Explain absolute and relative interpretations",
+     "Do not substitute a hazard ratio for a risk ratio"
+    ],
+    "visual": "Effect-measure comparison"
+   },
+   {
+    "n": 17,
+    "title": "Survival analysis",
+    "points": [
+     "Use Kaplan-Meier estimates when assumptions fit the question",
+     "Explain Cox models and proportional-hazards assessment",
+     "Recognize competing-risk and time-varying-effect alternatives"
+    ],
+    "visual": "Survival curve and model diagram"
+   },
+   {
+    "n": 18,
+    "title": "Confounding control",
+    "points": [
+     "Use design restrictions and prespecified adjustment",
+     "Consider propensity methods when justified by the objective",
+     "Explain that adjustment cannot remove unmeasured confounding by itself"
+    ],
+    "visual": "Confounding-control workflow"
+   },
+   {
+    "n": 19,
+    "title": "Immortal time and other timing errors",
+    "points": [
+     "Do not assign future survivors to an exposed group from baseline",
+     "Align treatment decisions and follow-up start",
+     "Consider time-varying exposures or target-trial principles"
+    ],
+    "visual": "Immortal-time example"
+   },
+   {
+    "n": 20,
+    "title": "Selection and surveillance bias",
+    "points": [
+     "Assess loss to follow-up, differential testing and coding",
+     "More contact with healthcare may increase outcome detection",
+     "Explain how selection affects internal and external validity"
+    ],
+    "visual": "Surveillance bias map"
+   },
+   {
+    "n": 21,
+    "title": "Missing data and sensitivity analyses",
+    "points": [
+     "Describe baseline and follow-up missingness",
+     "Choose methods with defensible assumptions",
+     "Test alternative exposure, outcome and follow-up definitions"
+    ],
+    "visual": "Sensitivity analysis table"
+   },
+   {
+    "n": 22,
+    "title": "Worked comparative example",
+    "points": [
+     "Hypothetical one-year risks are 20 of 200 exposed and 10 of 200 unexposed",
+     "Risk ratio is 2.0 and risk difference is 5 percentage points",
+     "State that these crude contrasts may reflect confounding"
+    ],
+    "visual": "Risk comparison table"
+   },
+   {
+    "n": 23,
+    "title": "Ethics and data stewardship",
+    "points": [
+     "Protect longitudinal records and sensitive exposures",
+     "Follow applicable consent or waiver requirements",
+     "Specify access, linkage and retention safeguards"
+    ],
+    "visual": "Data stewardship checklist"
+   },
+   {
+    "n": 24,
+    "title": "Reporting, strengths and takeaways",
+    "points": [
+     "Use the cohort STROBE checklist",
+     "Report follow-up, events, censoring and adjusted estimates transparently",
+     "Discuss the credibility of timing, comparator choice and remaining bias"
+    ],
+    "visual": "STROBE-informed report outline"
+   },
+   {
+    "n": 25,
+    "title": "References and further reading",
+    "points": [
+     "STROBE Statement: reporting observational research. https://www.strobe-statement.org/",
+     "CDC Field Epidemiology Manual: Designing and Conducting Analytic Studies in the Field. https://www.cdc.gov/field-epi-manual/php/chapters/design-conduct-analyze-field-studies.html"
+    ],
+    "visual": "Reference list with source links"
+   }
+  ]
+ },
+ {
+  "sheet": "07 Uncontrolled before-after",
+  "slides": [
+   {
+    "n": 1,
+    "title": "Uncontrolled before-and-after study",
+    "points": [
+     "Compare outcomes before and after an intervention in one group",
+     "Core concepts, study planning, analysis and interpretation"
+    ],
+    "visual": "Title slide with a simple design schematic"
+   },
+   {
+    "n": 2,
+    "title": "Learning objectives",
+    "points": [
+     "Explain the purpose and structure of the design",
+     "Plan sampling, measurement and appropriate analysis",
+     "Assess bias, interpretation, ethics and reporting"
+    ],
+    "visual": "Three learning objectives"
+   },
+   {
+    "n": 3,
+    "title": "Definition and structure",
+    "points": [
+     "Measure outcomes in a group before and after a change",
+     "Include no concurrent untreated comparison group",
+     "Distinguish paired individual follow-up from repeated samples of a population"
+    ],
+    "visual": "One-group pre-post diagram"
+   },
+   {
+    "n": 4,
+    "title": "Purpose and design scope",
+    "points": [
+     "Describe change following implementation",
+     "Use for preliminary local assessment or feasibility",
+     "Recognize limited ability to attribute change to the intervention"
+    ],
+    "visual": "Observed-change versus causal-effect comparison"
+   },
+   {
+    "n": 5,
+    "title": "When the design fits",
+    "points": [
+     "Consider use when a concurrent comparator is unavailable",
+     "Assess whether repeated time-series data could strengthen the design",
+     "Explain why randomization or a comparison group was not used"
+    ],
+    "visual": "Design-choice examples"
+   },
+   {
+    "n": 6,
+    "title": "Formulating the question",
+    "points": [
+     "Specify intervention, population, outcome and assessment windows",
+     "Define the change being estimated",
+     "Use wording that distinguishes temporal change from causal benefit"
+    ],
+    "visual": "Question-development example"
+   },
+   {
+    "n": 7,
+    "title": "Illustrative research problem",
+    "points": [
+     "Hypothetical example: attendance before and after a clinic reminder system",
+     "Compare consistent periods and definitions",
+     "Consider other changes in clinic access or workload"
+    ],
+    "visual": "Study question card"
+   },
+   {
+    "n": 8,
+    "title": "Defining the study population",
+    "points": [
+     "Clarify whether the same individuals are measured twice",
+     "Set eligibility consistently at both periods",
+     "Record changes in population composition"
+    ],
+    "visual": "Paired-versus-repeated-sample diagram"
+   },
+   {
+    "n": 9,
+    "title": "Describing the intervention",
+    "points": [
+     "Specify content, delivery, start date and intensity",
+     "Document adaptations and implementation fidelity",
+     "Identify co-interventions occurring at the same time"
+    ],
+    "visual": "Intervention description template"
+   },
+   {
+    "n": 10,
+    "title": "Selecting baseline and follow-up windows",
+    "points": [
+     "Choose periods that fit the expected response",
+     "Keep seasonal and service differences in view",
+     "Avoid choosing the best-looking post-intervention period after examining results"
+    ],
+    "visual": "Assessment schedule"
+   },
+   {
+    "n": 11,
+    "title": "Baseline measurement",
+    "points": [
+     "Use reliable measurements before implementation",
+     "Record context and initial performance",
+     "Consider whether an unusually poor baseline prompted the intervention"
+    ],
+    "visual": "Baseline context table"
+   },
+   {
+    "n": 12,
+    "title": "Outcome measurement consistency",
+    "points": [
+     "Use the same instruments, criteria and denominators across periods",
+     "Record changes in coding or data collection",
+     "Keep assessment procedures stable where possible"
+    ],
+    "visual": "Measurement comparison checklist"
+   },
+   {
+    "n": 13,
+    "title": "Sampling and sample size",
+    "points": [
+     "Plan around the primary change estimate and desired precision",
+     "Account for within-person correlation in paired designs",
+     "Include attrition and available population counts"
+    ],
+    "visual": "Sample planning matrix"
+   },
+   {
+    "n": 14,
+    "title": "Paired continuous outcomes",
+    "points": [
+     "Estimate mean or median within-person change as appropriate",
+     "Consider paired tests or longitudinal models with suitable assumptions",
+     "Avoid treating paired observations as independent"
+    ],
+    "visual": "Paired change plot"
+   },
+   {
+    "n": 15,
+    "title": "Independent pre-post samples",
+    "points": [
+     "Compare group summaries with methods for independent samples",
+     "Adjust for relevant composition differences where possible",
+     "Explain that adjustment does not create a true counterfactual"
+    ],
+    "visual": "Independent-sample comparison"
+   },
+   {
+    "n": 16,
+    "title": "Binary outcomes and proportions",
+    "points": [
+     "Use paired methods such as McNemar's test for paired binary data when appropriate",
+     "Compare independent proportions with suitable methods for independent samples",
+     "Keep eligibility denominators consistent"
+    ],
+    "visual": "Binary analysis selection table"
+   },
+   {
+    "n": 17,
+    "title": "Repeated observations and clustering",
+    "points": [
+     "Account for multiple measurements per participant or site",
+     "Distinguish patients from visits or procedures",
+     "Choose uncertainty estimates that respect dependence"
+    ],
+    "visual": "Data hierarchy diagram"
+   },
+   {
+    "n": 18,
+    "title": "History and secular trends",
+    "points": [
+     "External events or background changes may explain the difference",
+     "Record contemporaneous policies and service disruptions",
+     "Recognize that one pre-post contrast cannot separate these effects"
+    ],
+    "visual": "External-event timeline"
+   },
+   {
+    "n": 19,
+    "title": "Maturation and regression to the mean",
+    "points": [
+     "Outcomes may change naturally with time",
+     "Extreme baseline values tend to be less extreme on repeat measurement",
+     "Consider whether eligibility was triggered by unusually poor performance"
+    ],
+    "visual": "Regression-to-mean illustration"
+   },
+   {
+    "n": 20,
+    "title": "Testing and instrumentation effects",
+    "points": [
+     "Participants may respond differently after repeated testing",
+     "Instruments, assessors or definitions may change",
+     "Examine these possibilities before interpreting improvement"
+    ],
+    "visual": "Measurement-change scenario"
+   },
+   {
+    "n": 21,
+    "title": "Missing follow-up and attrition",
+    "points": [
+     "Compare observed participants with those lost to follow-up",
+     "Report unavailable outcomes rather than treating them as unchanged",
+     "Assess sensitivity to plausible missing-data mechanisms"
+    ],
+    "visual": "Attrition flowchart"
+   },
+   {
+    "n": 22,
+    "title": "Worked change example",
+    "points": [
+     "Hypothetical attendance rises from 60% to 75%",
+     "The absolute observed change is 15 percentage points",
+     "This difference alone cannot isolate the reminder system's effect"
+    ],
+    "visual": "Pre-post bar chart"
+   },
+   {
+    "n": 23,
+    "title": "Ethics and reporting",
+    "points": [
+     "Follow applicable approvals for intervention delivery and research data",
+     "Report eligibility, implementation, windows and missingness",
+     "Present estimates with uncertainty and explicit design limitations"
+    ],
+    "visual": "Report outline and ethics checklist"
+   },
+   {
+    "n": 24,
+    "title": "Strengths, limitations and takeaways",
+    "points": [
+     "Simple and useful for documenting local change",
+     "Highly vulnerable to time-related alternative explanations",
+     "Discuss adding a comparator or multiple observations before and after"
+    ],
+    "visual": "Three lessons and discussion prompt"
+   },
+   {
+    "n": 25,
+    "title": "References and further reading",
+    "points": [
+     "Cochrane Handbook, Chapter 25: Assessing risk of bias in a non-randomized study. https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-25",
+     "JBI Critical Appraisal Tools. https://jbi.global/critical-appraisal-tools"
+    ],
+    "visual": "Reference list with source links"
+   }
+  ]
+ },
+ {
+  "sheet": "08 Controlled before-after",
+  "slides": [
+   {
+    "n": 1,
+    "title": "Controlled before-and-after study",
+    "points": [
+     "Compare pre-post changes between an intervention group and a nonrandomized comparison group",
+     "Core concepts, study planning, analysis and interpretation"
+    ],
+    "visual": "Title slide with a simple design schematic"
+   },
+   {
+    "n": 2,
+    "title": "Learning objectives",
+    "points": [
+     "Explain the purpose and structure of the design",
+     "Plan sampling, measurement and appropriate analysis",
+     "Assess bias, interpretation, ethics and reporting"
+    ],
+    "visual": "Three learning objectives"
+   },
+   {
+    "n": 3,
+    "title": "Definition and structure",
+    "points": [
+     "Measure outcomes in intervention and comparison groups before and after implementation",
+     "Allocation is not randomized",
+     "Use the comparison group to assess background changes"
+    ],
+    "visual": "Two-group pre-post diagram"
+   },
+   {
+    "n": 4,
+    "title": "Purpose and design scope",
+    "points": [
+     "Estimate change associated with an intervention beyond a comparison group's change",
+     "Examine assumptions supporting that contrast",
+     "Recognize overlap with nonrandomized intervention studies"
+    ],
+    "visual": "Design comparison table"
+   },
+   {
+    "n": 5,
+    "title": "When the design fits",
+    "points": [
+     "Use for service or policy changes when randomization is impractical",
+     "Seek a plausible contemporaneous comparison",
+     "Consider whether longer time-series data are available"
+    ],
+    "visual": "Design-fit examples"
+   },
+   {
+    "n": 6,
+    "title": "Formulating the question",
+    "points": [
+     "Specify intervention, comparison, population and time windows",
+     "Define the main outcome and desired effect",
+     "State the intended causal contrast and assumptions"
+    ],
+    "visual": "Question-development example"
+   },
+   {
+    "n": 7,
+    "title": "Illustrative research problem",
+    "points": [
+     "Hypothetical example: a reminder system introduced at one clinic but not another",
+     "Measure attendance before and after at both clinics",
+     "Assess differences in populations and background trends"
+    ],
+    "visual": "Study question card"
+   },
+   {
+    "n": 8,
+    "title": "Unit of allocation and analysis",
+    "points": [
+     "Identify whether interventions are assigned to clinics, wards or individuals",
+     "Distinguish allocation units from outcome observations",
+     "Account for clustered data in planning and analysis"
+    ],
+    "visual": "Allocation-analysis hierarchy"
+   },
+   {
+    "n": 9,
+    "title": "Selecting the comparison group",
+    "points": [
+     "Choose a group with similar determinants of the outcome",
+     "Align calendar periods and eligibility",
+     "Avoid selection based only on matching one baseline mean"
+    ],
+    "visual": "Comparator selection matrix"
+   },
+   {
+    "n": 10,
+    "title": "Documenting nonrandom allocation",
+    "points": [
+     "Explain why one group received the intervention",
+     "Identify decision-makers and allocation criteria",
+     "Consider how those criteria also predict outcomes"
+    ],
+    "visual": "Allocation pathway map"
+   },
+   {
+    "n": 11,
+    "title": "Baseline comparability",
+    "points": [
+     "Describe differences in demographics, services and outcomes",
+     "Assess determinants relevant to the research question",
+     "Avoid interpreting nonsignificant baseline tests as proof of equivalence"
+    ],
+    "visual": "Baseline comparability table"
+   },
+   {
+    "n": 12,
+    "title": "Intervention and co-interventions",
+    "points": [
+     "Specify content, timing and implementation fidelity",
+     "Record other changes in both groups",
+     "Identify spillover and contamination"
+    ],
+    "visual": "Implementation timeline"
+   },
+   {
+    "n": 13,
+    "title": "Measurement schedules",
+    "points": [
+     "Collect comparable pre and post data in both groups",
+     "Use common windows and outcome definitions",
+     "Obtain additional pre-intervention periods when feasible"
+    ],
+    "visual": "Synchronized assessment schedule"
+   },
+   {
+    "n": 14,
+    "title": "Sampling and power",
+    "points": [
+     "Plan using the unit of allocation, effect and expected variability",
+     "Account for clustering and repeated measurement",
+     "Large patient counts cannot compensate for very few independent sites"
+    ],
+    "visual": "Cluster-aware planning illustration"
+   },
+   {
+    "n": 15,
+    "title": "Outcome definitions and denominators",
+    "points": [
+     "Use consistent numerator and denominator rules across groups and time",
+     "Verify coding stability",
+     "Record population turnover and missing observations"
+    ],
+    "visual": "Outcome definition matrix"
+   },
+   {
+    "n": 16,
+    "title": "Difference-in-differences logic",
+    "points": [
+     "Compare the intervention group's change with the comparison group's change",
+     "Define the interaction contrast as the target estimate where appropriate",
+     "Explain the counterfactual interpretation"
+    ],
+    "visual": "Difference-in-differences diagram"
+   },
+   {
+    "n": 17,
+    "title": "Parallel trends and related assumptions",
+    "points": [
+     "Assume untreated outcome changes would have been comparable, conditional on the chosen framework",
+     "Inspect pre-intervention trends when available",
+     "Recognize that similar baseline values do not establish parallel trends"
+    ],
+    "visual": "Pretrend comparison plot"
+   },
+   {
+    "n": 18,
+    "title": "Statistical analysis",
+    "points": [
+     "Use regression suited to the outcome and dependence structure",
+     "Estimate group-by-period effects when that matches the estimand",
+     "Report absolute or relative effects with uncertainty"
+    ],
+    "visual": "Model specification layout"
+   },
+   {
+    "n": 19,
+    "title": "Clustering and repeated measures",
+    "points": [
+     "Account for correlation within sites and within participants",
+     "Choose methods suited to the number of independent units",
+     "Explain small-cluster uncertainty limitations"
+    ],
+    "visual": "Correlation structure diagram"
+   },
+   {
+    "n": 20,
+    "title": "Confounding and differential changes",
+    "points": [
+     "Consider time-varying changes affecting groups differently",
+     "Adjust measured factors using a causal rationale",
+     "A comparator does not eliminate all confounding"
+    ],
+    "visual": "Differential-shock timeline"
+   },
+   {
+    "n": 21,
+    "title": "Contamination and population shifts",
+    "points": [
+     "Check whether comparison participants receive elements of the intervention",
+     "Assess turnover or altered referral pathways",
+     "Explain how these changes affect the contrast"
+    ],
+    "visual": "Contamination map"
+   },
+   {
+    "n": 22,
+    "title": "Worked difference-in-differences example",
+    "points": [
+     "Hypothetical attendance changes from 60% to 75% in the intervention group and 65% to 70% in controls",
+     "The difference in changes is 10 percentage points",
+     "Causal interpretation still requires credible assumptions"
+    ],
+    "visual": "Worked two-group pre-post table"
+   },
+   {
+    "n": 23,
+    "title": "Sensitivity analyses and ethics",
+    "points": [
+     "Examine alternative windows, comparators and outcome definitions",
+     "Test sensitivity to site differences and missingness",
+     "Follow applicable intervention and data-review requirements"
+    ],
+    "visual": "Sensitivity and ethics plan"
+   },
+   {
+    "n": 24,
+    "title": "Reporting, strengths and takeaways",
+    "points": [
+     "Report allocation, comparison selection, pre-post measurements and assumptions",
+     "Explain clustering, concurrent changes and implementation",
+     "Discuss whether the comparator credibly represents untreated change"
+    ],
+    "visual": "Controlled before-after report outline"
+   },
+   {
+    "n": 25,
+    "title": "References and further reading",
+    "points": [
+     "Cochrane Handbook, Chapter 25: Assessing risk of bias in a non-randomized study. https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-25",
+     "Cochrane EPOC: study-design guidance. https://epoc.cochrane.org/sites/epoc.cochrane.org/files/uploads/Resources-for-authors2017/what_study_designs_should_be_included_in_an_epoc_review.pdf"
+    ],
+    "visual": "Reference list with source links"
+   }
+  ]
+ },
+ {
+  "sheet": "09 Interrupted time series",
+  "slides": [
+   {
+    "n": 1,
+    "title": "Interrupted time-series study",
+    "points": [
+     "Estimate changes in outcome level or trend following a clearly timed intervention",
+     "Core concepts, study planning, analysis and interpretation"
+    ],
+    "visual": "Title slide with a simple design schematic"
+   },
+   {
+    "n": 2,
+    "title": "Learning objectives",
+    "points": [
+     "Explain the purpose and structure of the design",
+     "Plan sampling, measurement and appropriate analysis",
+     "Assess bias, interpretation, ethics and reporting"
+    ],
+    "visual": "Three learning objectives"
+   },
+   {
+    "n": 3,
+    "title": "Definition and temporal structure",
+    "points": [
+     "Use repeated outcome observations before and after an intervention",
+     "Specify when the intervention occurred",
+     "Compare post-intervention observations with a modeled counterfactual trend"
+    ],
+    "visual": "Interrupted series plot"
+   },
+   {
+    "n": 4,
+    "title": "ITS versus a simple pre-post study",
+    "points": [
+     "ITS explicitly models the existing outcome trend",
+     "Multiple observations allow evaluation of level and slope changes",
+     "A single before and after measurement cannot establish a time-series trend"
+    ],
+    "visual": "Two-design plot comparison"
+   },
+   {
+    "n": 5,
+    "title": "When the design fits",
+    "points": [
+     "Use for policies or service changes introduced at a defined time",
+     "Require sufficiently frequent and reliable observations",
+     "Consider control series when contemporaneous changes threaten inference"
+    ],
+    "visual": "Design-fit examples"
+   },
+   {
+    "n": 6,
+    "title": "Formulating the question",
+    "points": [
+     "Specify intervention, outcome, population and expected timing of response",
+     "Define level change, trend change or another impact pattern",
+     "Prespecify the main effect model where possible"
+    ],
+    "visual": "Question-and-effect card"
+   },
+   {
+    "n": 7,
+    "title": "Illustrative research problem",
+    "points": [
+     "Hypothetical example: monthly clinic attendance after reminder-system rollout",
+     "Examine existing trends and calendar effects",
+     "Avoid attributing an unrelated seasonal rise to implementation"
+    ],
+    "visual": "Study question card"
+   },
+   {
+    "n": 8,
+    "title": "Defining the interruption",
+    "points": [
+     "Document announcement, rollout and actual implementation dates",
+     "Consider anticipation, phased implementation and lagged effects",
+     "Explain which date or transition period the model uses"
+    ],
+    "visual": "Intervention timing timeline"
+   },
+   {
+    "n": 9,
+    "title": "Selecting outcome data",
+    "points": [
+     "Use consistent repeated measurements with stable definitions",
+     "Check denominators for rates or proportions",
+     "Record changes in reporting systems and coverage"
+    ],
+    "visual": "Time-series data inventory"
+   },
+   {
+    "n": 10,
+    "title": "Frequency and observation window",
+    "points": [
+     "Choose intervals suited to the outcome and expected effect",
+     "Include enough pre and post observations to model relevant patterns",
+     "Avoid treating a minimal eligibility threshold as evidence of sufficient power"
+    ],
+    "visual": "Observation schedule"
+   },
+   {
+    "n": 11,
+    "title": "Sample size and power",
+    "points": [
+     "Consider number of time points, variability, autocorrelation and expected effect",
+     "Account for seasonality and model complexity",
+     "More participants within one point do not replace adequate temporal information"
+    ],
+    "visual": "Power determinants diagram"
+   },
+   {
+    "n": 12,
+    "title": "Exploratory visualization",
+    "points": [
+     "Plot all observations and the intervention date",
+     "Inspect missing periods, outliers and background patterns",
+     "Keep exploratory impressions separate from prespecified inference"
+    ],
+    "visual": "Annotated time-series plot"
+   },
+   {
+    "n": 13,
+    "title": "Defining the impact model",
+    "points": [
+     "Compare immediate level change, slope change, delayed response and temporary effects",
+     "Use substantive knowledge to choose the primary model",
+     "Avoid selecting the model solely for statistical significance"
+    ],
+    "visual": "Impact-pattern gallery"
+   },
+   {
+    "n": 14,
+    "title": "Segmented regression",
+    "points": [
+     "Model baseline level and pre-intervention trend",
+     "Add terms for the intervention and time after intervention when appropriate",
+     "Match the link function to the outcome"
+    ],
+    "visual": "Segmented regression schematic"
+   },
+   {
+    "n": 15,
+    "title": "Interpreting level change",
+    "points": [
+     "Describe the immediate departure from the projected counterfactual",
+     "State the scale and timing of the estimate",
+     "Consider whether immediate change is plausible for the intervention"
+    ],
+    "visual": "Level-change annotation"
+   },
+   {
+    "n": 16,
+    "title": "Interpreting slope change",
+    "points": [
+     "Describe the post-intervention change in trend relative to baseline",
+     "Distinguish trend change from the total effect at a later time",
+     "Report units per interval clearly"
+    ],
+    "visual": "Slope-change annotation"
+   },
+   {
+    "n": 17,
+    "title": "Estimating effects at a chosen horizon",
+    "points": [
+     "Combine relevant model terms for the prespecified time point",
+     "Compare predicted observed and counterfactual outcomes",
+     "Include uncertainty in the derived contrast"
+    ],
+    "visual": "Counterfactual prediction plot"
+   },
+   {
+    "n": 18,
+    "title": "Autocorrelation",
+    "points": [
+     "Successive observations may have correlated errors",
+     "Check temporal dependence with appropriate diagnostics",
+     "Use models or error structures that address relevant autocorrelation"
+    ],
+    "visual": "Residual autocorrelation plot"
+   },
+   {
+    "n": 19,
+    "title": "Seasonality and nonlinear patterns",
+    "points": [
+     "Model recurring calendar effects when relevant",
+     "Assess whether a linear trend is defensible",
+     "Avoid overfitting with too few time points"
+    ],
+    "visual": "Seasonal-versus-intervention pattern"
+   },
+   {
+    "n": 20,
+    "title": "Time-varying confounding",
+    "points": [
+     "Record policies, disruptions and other interventions near the interruption",
+     "Consider whether they can explain the observed change",
+     "Recognize that an uncontrolled series cannot separate every simultaneous event"
+    ],
+    "visual": "Concurrent-event timeline"
+   },
+   {
+    "n": 21,
+    "title": "Controlled ITS",
+    "points": [
+     "Add an appropriate unexposed outcome or population series",
+     "Compare changes while accounting for baseline differences in trends",
+     "State assumptions about shared external influences and contamination"
+    ],
+    "visual": "Intervention-and-control series plot"
+   },
+   {
+    "n": 22,
+    "title": "Model checks and sensitivity analyses",
+    "points": [
+     "Inspect residuals, outliers and alternative plausible timing assumptions",
+     "Test sensitivity to transition periods and influential points",
+     "Report planned and exploratory analyses distinctly"
+    ],
+    "visual": "Diagnostic and sensitivity panel"
+   },
+   {
+    "n": 23,
+    "title": "Worked interpretation and ethics",
+    "points": [
+     "Hypothetical model suggests an immediate 8-percentage-point attendance increase with no clear slope change",
+     "Discuss uncertainty, seasonality and concurrent events",
+     "Follow applicable data-use and intervention-review requirements"
+    ],
+    "visual": "Hypothetical segmented plot"
+   },
+   {
+    "n": 24,
+    "title": "Reporting, strengths and takeaways",
+    "points": [
+     "Report dates, observation counts, impact model and dependence adjustments",
+     "Present observed and counterfactual trajectories with uncertainty",
+     "Discuss why a plausible time trend is essential to inference"
+    ],
+    "visual": "ITS report outline"
+   },
+   {
+    "n": 25,
+    "title": "References and further reading",
+    "points": [
+     "Lopez Bernal J, Cummins S, Gasparrini A. Interrupted time series regression for the evaluation of public health interventions: a tutorial. International Journal of Epidemiology. 2017;46:348-355. https://doi.org/10.1093/ije/dyw098",
+     "Cochrane Handbook, Chapter 25: Assessing risk of bias in a non-randomized study. https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-25"
+    ],
+    "visual": "Reference list with source links"
+   }
+  ]
+ },
+ {
+  "sheet": "10 Nonrandomized trial",
+  "slides": [
+   {
+    "n": 1,
+    "title": "Nonrandomized controlled trial",
+    "points": [
+     "Evaluate an investigator-assigned intervention against a comparator without random allocation",
+     "Core concepts, study planning, analysis and interpretation"
+    ],
+    "visual": "Title slide with a simple design schematic"
+   },
+   {
+    "n": 2,
+    "title": "Learning objectives",
+    "points": [
+     "Explain the purpose and structure of the design",
+     "Plan sampling, measurement and appropriate analysis",
+     "Assess bias, interpretation, ethics and reporting"
+    ],
+    "visual": "Three learning objectives"
+   },
+   {
+    "n": 3,
+    "title": "Definition and allocation",
+    "points": [
+     "Investigators assign intervention and comparator groups without randomization",
+     "Measure subsequent outcomes under a planned protocol",
+     "Distinguish investigator assignment from observing routine treatment choices"
+    ],
+    "visual": "Nonrandom allocation diagram"
+   },
+   {
+    "n": 4,
+    "title": "Relationship to other designs",
+    "points": [
+     "A cohort may observe exposure without assigning it",
+     "Controlled before-after designs include measurements before and after in both groups",
+     "Trial and quasi-experimental labels can overlap, so describe actual procedures"
+    ],
+    "visual": "Design classification matrix"
+   },
+   {
+    "n": 5,
+    "title": "When nonrandomized trials are used",
+    "points": [
+     "Consider logistical, operational or preference constraints",
+     "Explain why randomization was not feasible",
+     "Assess whether the remaining design can answer the intervention question"
+    ],
+    "visual": "Design-choice examples"
+   },
+   {
+    "n": 6,
+    "title": "Formulating the question",
+    "points": [
+     "Specify population, intervention, comparator, outcome and time horizon",
+     "Define the intended treatment effect",
+     "Identify the decision point at which groups are assigned"
+    ],
+    "visual": "Trial question card"
+   },
+   {
+    "n": 7,
+    "title": "Illustrative research problem",
+    "points": [
+     "Hypothetical example: clinicians assign two patient-education approaches by clinic schedule",
+     "Evaluate later knowledge or attendance",
+     "Examine whether schedule and clinic differences predict outcomes"
+    ],
+    "visual": "Illustrative trial diagram"
+   },
+   {
+    "n": 8,
+    "title": "Protocol and analysis planning",
+    "points": [
+     "Specify procedures and outcomes before enrollment",
+     "Prespecify confounders and analysis methods",
+     "Use appropriate registration or public protocol practices where applicable"
+    ],
+    "visual": "Protocol structure"
+   },
+   {
+    "n": 9,
+    "title": "Eligibility and recruitment",
+    "points": [
+     "Apply comparable criteria to both groups",
+     "Recruit before outcome development where possible",
+     "Record preferences and reasons for participation or refusal"
+    ],
+    "visual": "Recruitment flowchart"
+   },
+   {
+    "n": 10,
+    "title": "Nonrandom allocation mechanism",
+    "points": [
+     "Describe clinician choice, location, time or other assignment rules",
+     "Avoid calling alternation or date-based assignment truly random",
+     "Assess predictability and selection opportunities"
+    ],
+    "visual": "Allocation mechanism table"
+   },
+   {
+    "n": 11,
+    "title": "Selecting the comparator",
+    "points": [
+     "Define usual care, active treatment or another appropriate comparator",
+     "Ensure contemporaneous and comparable follow-up",
+     "Explain why the comparator answers the intended question"
+    ],
+    "visual": "Comparator-choice matrix"
+   },
+   {
+    "n": 12,
+    "title": "Baseline measurement",
+    "points": [
+     "Record prognostic characteristics before treatment assignment or initiation as appropriate",
+     "Measure confounders with consistent procedures",
+     "Evaluate overlap between groups"
+    ],
+    "visual": "Baseline and overlap display"
+   },
+   {
+    "n": 13,
+    "title": "Intervention delivery and adherence",
+    "points": [
+     "Specify intervention content, dose and delivery",
+     "Document adherence, crossover and co-interventions",
+     "Distinguish assigned treatment from treatment received"
+    ],
+    "visual": "Treatment delivery map"
+   },
+   {
+    "n": 14,
+    "title": "Blinding and outcome assessment",
+    "points": [
+     "Blind assessors or analysts where feasible",
+     "Use objective or standardized outcomes",
+     "Explain when participants or staff cannot be blinded"
+    ],
+    "visual": "Blinding roles table"
+   },
+   {
+    "n": 15,
+    "title": "Outcome definitions and follow-up",
+    "points": [
+     "Prespecify primary and secondary outcomes",
+     "Align time zero and assessment windows",
+     "Avoid preferential outcome assessment in one group"
+    ],
+    "visual": "Follow-up schedule"
+   },
+   {
+    "n": 16,
+    "title": "Sample size and precision",
+    "points": [
+     "Base planning on the intended effect, event frequency and variability",
+     "Include expected attrition and clustering",
+     "Consider loss of information from poor overlap or matching"
+    ],
+    "visual": "Planning assumptions table"
+   },
+   {
+    "n": 17,
+    "title": "Confounding and prognostic imbalance",
+    "points": [
+     "Allocation may depend on factors that also affect outcomes",
+     "Identify confounding by indication or preference",
+     "Explain why baseline adjustment is central but not sufficient"
+    ],
+    "visual": "Allocation-confounding diagram"
+   },
+   {
+    "n": 18,
+    "title": "Regression adjustment",
+    "points": [
+     "Choose outcome models that estimate the intended contrast",
+     "Adjust prespecified prognostic confounders",
+     "Avoid controlling for post-treatment mediators without a clear estimand"
+    ],
+    "visual": "Regression adjustment plan"
+   },
+   {
+    "n": 19,
+    "title": "Propensity score methods",
+    "points": [
+     "Consider matching, weighting or stratification when assumptions are credible",
+     "Assess overlap and covariate balance after adjustment",
+     "Explain that these methods do not resolve unmeasured confounding"
+    ],
+    "visual": "Propensity workflow"
+   },
+   {
+    "n": 20,
+    "title": "Defining the analysis population",
+    "points": [
+     "Specify assignment-based, as-treated or per-protocol contrasts",
+     "Explain how crossover and adherence affect interpretation",
+     "Avoid treating assignment-based analysis as restoring randomization"
+    ],
+    "visual": "Analysis-population comparison"
+   },
+   {
+    "n": 21,
+    "title": "Missing data and attrition",
+    "points": [
+     "Report outcome completeness by group and reasons for loss",
+     "Use methods with stated assumptions",
+     "Examine sensitivity to informative missingness"
+    ],
+    "visual": "Attrition and missing-data table"
+   },
+   {
+    "n": 22,
+    "title": "Worked interpretation example",
+    "points": [
+     "Hypothetical adjusted analysis favors one education strategy",
+     "Examine whether motivated patients were preferentially assigned to it",
+     "Separate an adjusted association from a credible causal estimate"
+    ],
+    "visual": "Estimate-and-bias interpretation table"
+   },
+   {
+    "n": 23,
+    "title": "Ethics, harms and risk of bias",
+    "points": [
+     "Obtain appropriate approvals and informed consent for trial procedures",
+     "Monitor harms in both groups",
+     "Assess allocation, confounding, measurement and missingness systematically"
+    ],
+    "visual": "Ethics and bias checklist"
+   },
+   {
+    "n": 24,
+    "title": "Reporting, strengths and takeaways",
+    "points": [
+     "Describe nonrandom allocation and its rationale clearly",
+     "Report protocol, flow, adjustments, adherence and harms",
+     "Discuss residual confounding and when randomization would strengthen inference"
+    ],
+    "visual": "Nonrandomized trial report outline"
+   },
+   {
+    "n": 25,
+    "title": "References and further reading",
+    "points": [
+     "Cochrane Handbook, Chapter 25: Assessing risk of bias in a non-randomized study. https://www.cochrane.org/authors/handbooks-and-manuals/handbook/current/chapter-25",
+     "JBI Critical Appraisal Tools. https://jbi.global/critical-appraisal-tools"
+    ],
+    "visual": "Reference list with source links"
+   }
+  ]
+ },
+ {
+  "sheet": "11 Randomized trial RCT",
+  "slides": [
+   {
+    "n": 1,
+    "title": "Randomized controlled trial (RCT)",
+    "points": [
+     "Estimate intervention effects using randomized allocation and a prespecified trial protocol",
+     "Core concepts, study planning, analysis and interpretation"
+    ],
+    "visual": "Title slide with a simple design schematic"
+   },
+   {
+    "n": 2,
+    "title": "Learning objectives",
+    "points": [
+     "Explain the purpose and structure of the design",
+     "Plan sampling, measurement and appropriate analysis",
+     "Assess bias, interpretation, ethics and reporting"
+    ],
+    "visual": "Three learning objectives"
+   },
+   {
+    "n": 3,
+    "title": "Definition and purpose",
+    "points": [
+     "Randomly assign eligible participants or groups to interventions",
+     "Compare outcomes under a prespecified protocol",
+     "Use randomization to support exchangeability on average, not guarantee identical groups"
+    ],
+    "visual": "Random allocation diagram"
+   },
+   {
+    "n": 4,
+    "title": "When an RCT fits",
+    "points": [
+     "Use when intervention assignment is ethical and feasible",
+     "Ensure the comparator addresses a meaningful question",
+     "Assess recruitment, follow-up and operational feasibility"
+    ],
+    "visual": "Trial feasibility matrix"
+   },
+   {
+    "n": 5,
+    "title": "Formulating the trial question",
+    "points": [
+     "Specify population, intervention, comparator, outcomes and time horizon",
+     "Define the estimand, including handling of intercurrent events",
+     "Connect the question with clinically meaningful decisions"
+    ],
+    "visual": "Trial question and estimand card"
+   },
+   {
+    "n": 6,
+    "title": "Illustrative research problem",
+    "points": [
+     "Hypothetical example: randomized reminder messages versus usual appointment communication",
+     "Evaluate attendance at a defined time",
+     "Prespecify harms, burden and secondary outcomes"
+    ],
+    "visual": "Trial scenario diagram"
+   },
+   {
+    "n": 7,
+    "title": "Protocol and registration",
+    "points": [
+     "Use SPIRIT 2025 to guide protocol reporting",
+     "Register the trial prospectively according to applicable requirements",
+     "Finalize the analysis plan before outcome-driven changes"
+    ],
+    "visual": "Protocol-to-registration workflow"
+   },
+   {
+    "n": 8,
+    "title": "Common trial structures",
+    "points": [
+     "Compare parallel, crossover, cluster and factorial structures",
+     "Choose according to intervention, carryover and contamination risks",
+     "Explain structure-specific analysis requirements"
+    ],
+    "visual": "Trial structure comparison"
+   },
+   {
+    "n": 9,
+    "title": "Eligibility and recruitment",
+    "points": [
+     "Define criteria that balance safety and applicability",
+     "Recruit without knowledge of upcoming allocation",
+     "Record screening and reasons for exclusion"
+    ],
+    "visual": "Screening flowchart"
+   },
+   {
+    "n": 10,
+    "title": "Comparator and intervention definition",
+    "points": [
+     "Specify usual care, placebo or an active comparator",
+     "Describe intervention delivery sufficiently for replication",
+     "Keep co-interventions and permitted care clear"
+    ],
+    "visual": "Intervention-comparator table"
+   },
+   {
+    "n": 11,
+    "title": "Random sequence generation",
+    "points": [
+     "Use a genuinely random allocation method",
+     "Describe blocking or stratification where applied",
+     "Keep prediction of upcoming assignments difficult"
+    ],
+    "visual": "Sequence-generation schematic"
+   },
+   {
+    "n": 12,
+    "title": "Allocation concealment",
+    "points": [
+     "Prevent foreknowledge of the next assignment during enrollment",
+     "Consider centralized or securely implemented allocation",
+     "Distinguish concealment from blinding after assignment"
+    ],
+    "visual": "Concealment-versus-blinding comparison"
+   },
+   {
+    "n": 13,
+    "title": "Blinding",
+    "points": [
+     "Identify which participants, staff, assessors or analysts are blinded",
+     "Explain how blinding is maintained or why it is infeasible",
+     "Assess susceptibility of outcomes to knowledge of allocation"
+    ],
+    "visual": "Blinding roles matrix"
+   },
+   {
+    "n": 14,
+    "title": "Sample size and power",
+    "points": [
+     "Specify primary outcome, effect size, error rates and variability assumptions",
+     "Account for attrition, clustering or repeated measurement",
+     "Choose assumptions grounded in the clinical question"
+    ],
+    "visual": "Sample-size assumptions table"
+   },
+   {
+    "n": 15,
+    "title": "Primary and secondary outcomes",
+    "points": [
+     "Prespecify outcome definitions and assessment times",
+     "Limit multiplicity and explain the hierarchy of outcomes",
+     "Distinguish patient-important outcomes from surrogates"
+    ],
+    "visual": "Outcome hierarchy table"
+   },
+   {
+    "n": 16,
+    "title": "Follow-up, adherence and intercurrent events",
+    "points": [
+     "Plan consistent assessment in all groups",
+     "Record adherence, discontinuation, rescue therapy and crossover",
+     "Handle these events according to the estimand and analysis plan"
+    ],
+    "visual": "Trial follow-up timeline"
+   },
+   {
+    "n": 17,
+    "title": "Baseline characteristics",
+    "points": [
+     "Describe prognostic factors and group composition",
+     "Recognize chance imbalances can occur after randomization",
+     "Avoid routine significance testing as proof of successful randomization"
+    ],
+    "visual": "Baseline table template"
+   },
+   {
+    "n": 18,
+    "title": "Primary statistical analysis",
+    "points": [
+     "Use an outcome model aligned with the estimand and design",
+     "Include prespecified covariate adjustment where justified",
+     "Report effect estimates with confidence intervals"
+    ],
+    "visual": "Outcome-to-analysis mapping"
+   },
+   {
+    "n": 19,
+    "title": "Intention-to-treat principle",
+    "points": [
+     "Analyze participants according to randomized assignment for the relevant assignment-based effect",
+     "Do not exclude participants solely for nonadherence",
+     "Explain missing outcomes rather than implying ITT solves missingness"
+    ],
+    "visual": "Assignment-versus-adherence diagram"
+   },
+   {
+    "n": 20,
+    "title": "Per-protocol and supplementary analyses",
+    "points": [
+     "Define adherence and protocol deviations in advance",
+     "Recognize potential selection bias from naive exclusions",
+     "Use suitable methods and distinguish supplementary from primary conclusions"
+    ],
+    "visual": "Analysis comparison table"
+   },
+   {
+    "n": 21,
+    "title": "Absolute and relative treatment effects",
+    "points": [
+     "Report measures suited to binary, continuous or time-to-event outcomes",
+     "Pair relative contrasts with absolute effects when useful",
+     "Distinguish hazard ratios, risk ratios and risk differences"
+    ],
+    "visual": "Effect-measure comparison"
+   },
+   {
+    "n": 22,
+    "title": "Worked effect example",
+    "points": [
+     "Hypothetical event risks are 10% with intervention and 15% with control at one year",
+     "Risk ratio is 0.67 and absolute risk reduction is 5 percentage points",
+     "NNT is 20 over that horizon if the event is undesirable and the contrast is appropriate"
+    ],
+    "visual": "Absolute-versus-relative effect display"
+   },
+   {
+    "n": 23,
+    "title": "Safety, ethics and trial monitoring",
+    "points": [
+     "Require meaningful consent, appropriate review and a defensible treatment comparison",
+     "Prespecify harm collection and monitoring suited to risk",
+     "Plan interim decisions without ignoring multiplicity or operational bias"
+    ],
+    "visual": "Safety and oversight matrix"
+   },
+   {
+    "n": 24,
+    "title": "Reporting, strengths and takeaways",
+    "points": [
+     "Use CONSORT 2025 and relevant design-specific extensions",
+     "Report participant flow, outcomes, uncertainty, harms and deviations",
+     "Discuss remaining risks from attrition, nonadherence and limited applicability"
+    ],
+    "visual": "CONSORT-informed report outline"
+   },
+   {
+    "n": 25,
+    "title": "References and further reading",
+    "points": [
+     "SPIRIT 2025 and CONSORT 2025: randomized trial protocol and reporting guidance. https://www.consort-spirit.org/",
+     "Published statements and explanation documents. https://www.consort-spirit.org/published-statements"
+    ],
+    "visual": "Reference list with source links"
+   }
+  ]
+ }
+]
